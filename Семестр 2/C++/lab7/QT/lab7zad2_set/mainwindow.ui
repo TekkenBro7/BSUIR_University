@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>755</width>
+    <height>546</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>751</width>
+      <height>521</height>
+     </rect>
+    </property>
+    <layout class="QVBoxLayout" name="verticalLayout_7">
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_4">
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_5"/>
+       </item>
+       <item>
+        <layout class="QVBoxLayout" name="verticalLayout_5">
+         <item>
+          <widget class="QTextBrowser" name="output_2"/>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QLabel" name="label_4">
+       <property name="text">
+        <string>Ключ (число)</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="pushLine_3"/>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_8">
+       <item>
+        <widget class="QPushButton" name="empty">
+         <property name="styleSheet">
+          <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+         </property>
+         <property name="text">
+          <string>Добавить новую запись</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QPushButton" name="size">
+         <property name="styleSheet">
+          <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+         </property>
+         <property name="text">
+          <string>Найти по ключу</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout_6">
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_6">
+         <item>
+          <widget class="QPushButton" name="capacity">
+           <property name="styleSheet">
+            <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+           </property>
+           <property name="text">
+            <string>Удалить узел по ключу</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="insert_3">
+           <property name="styleSheet">
+            <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+           </property>
+           <property name="text">
+            <string>Вывести схематично</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout_7">
+         <item>
+          <widget class="QPushButton" name="erase">
+           <property name="styleSheet">
+            <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+           </property>
+           <property name="text">
+            <string>Вывести в прямом</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="clear">
+           <property name="styleSheet">
+            <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+           </property>
+           <property name="text">
+            <string>Вывести в обратном</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="insert">
+           <property name="styleSheet">
+            <string notr="true">float: rigth;
+margin-right: 3%;
+margin-top: 5px;
+border-radius: 5px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+padding: 5px 9px;
+font-size: 1.2em;
+background-color: rgba(236, 101, 80, 1);
+text-shadow: #4545545 0 0 2px;
+border-bottom: 4px solid rgba(217, 91, 72, 1);
+color: white;
+font-family: 'Roboto Slab', serif;</string>
+           </property>
+           <property name="text">
+            <string>Вывести в инфиксной форме</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_2"/>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>755</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
