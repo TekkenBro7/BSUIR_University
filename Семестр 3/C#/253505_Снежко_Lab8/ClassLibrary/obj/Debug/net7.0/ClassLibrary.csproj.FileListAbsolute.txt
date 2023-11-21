@@ -1,0 +1,11 @@
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\bin\Debug\net7.0\ClassLibrary.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\refint\ClassLibrary.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ClassLibrary.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab8\ClassLibrary\obj\Debug\net7.0\ref\ClassLibrary.dll

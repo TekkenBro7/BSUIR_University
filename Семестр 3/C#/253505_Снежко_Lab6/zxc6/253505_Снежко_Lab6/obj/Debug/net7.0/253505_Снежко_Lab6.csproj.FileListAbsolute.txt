@@ -1,0 +1,30 @@
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.exe
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.runtimeconfig.json
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.csproj.AssemblyReference.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\refint\253505_Снежко_Lab6.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.genruntimeconfig.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab6\253505_Снежко_Lab6\obj\Debug\net7.0\ref\253505_Снежко_Lab6.dll
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.csproj.AssemblyReference.cache
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.AssemblyInfoInputs.cache
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.AssemblyInfo.cs
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.csproj.CoreCompileInputs.cache
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.dll
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\refint\253505_Снежко_Lab6.dll
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.pdb
+C:\zxc6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.exe
+C:\zxc6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.deps.json
+C:\zxc6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.runtimeconfig.json
+C:\zxc6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.dll
+C:\zxc6\253505_Снежко_Lab6\bin\Debug\net7.0\253505_Снежко_Lab6.pdb
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\253505_Снежко_Lab6.genruntimeconfig.cache
+C:\zxc6\253505_Снежко_Lab6\obj\Debug\net7.0\ref\253505_Снежко_Lab6.dll

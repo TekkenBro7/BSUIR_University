@@ -1,0 +1,11 @@
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\bin\Debug\net7.0\Integral.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\bin\Debug\net7.0\Integral.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\bin\Debug\net7.0\Integral.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\refint\Integral.dll
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\Integral.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\Уник\Программирование\С#\Семестр 3\253505_Снежко_Lab7\Integral\obj\Debug\net7.0\ref\Integral.dll
