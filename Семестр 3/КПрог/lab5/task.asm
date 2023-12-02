@@ -2,16 +2,18 @@
 .stack 100h
 .data
     inputLimitsString db "Number system - [2,16]. ", 0Dh, 0Ah, "Min value = -32768, max value = 32767.$"
-    notation db "Enter the number system: $"
+    notation db "Enter the number system convert to: $"
+    notation2 db "Enter the number system from: $"
+    number_syst db "Enter the number from this system: $"
     inputInviteString db "Enter number: $"
     invalidLengthString db "Invalid length input. 2 <= length <= 16.$"
     invalidInputString db "Invalid input. $"
-    ;æoverflowInputString db "Number is too big. $"
     tryAgainString db "Try again: $"
     newLine db 0Dh,0Ah,'$'
     length dw ?            
     number dw ?
     sign db ?
+    signn db ?
     output_msg db "Converted number: $"
     yes dw ?
     numberTen dw 000Ah          
@@ -20,8 +22,104 @@
     numberString db numberStringLength dup('$') 
     askRestartString db "Do you want to restart program? 1-yes, other-no: $"              
     maxArrayLength equ 16 ; max number system       
-    array dw maxArrayLength dup(?)        
+    array dw maxArrayLength dup(?)       
+    num_from dw 16    ; system conv from
+    aaaa db 10 dup('$')
+    nn db 0
+    ar db 20 dup('$')
+    ost db 1
+    first_ind db ?        
 .code
+
+
+NumberInput proc
+    call printNewLine
+    lea dx, number_syst
+    call outputString
+    xor dx, dx
+    xor ax, ax
+    lea dx, aaaa
+    mov ah, 0Ah
+    int 21h
+    call convert_to_ten    
+    call printNewLine
+ret 
+NumberInput endp
+
+
+proc convert_to_ten
+    xor dx, dx
+    mov dl, aaaa[1]
+    add dl, 1
+    mov si, dx
+    xor ax, ax    
+    xor dx, dx    
+    mov cx, 1
+    mov ax, 0   
+loooop:
+    xor bx, bx
+    mov bl, aaaa[si]
+    cmp bx, '-'
+    je minuss
+    cmp si, 1
+    je endddd
+go_after_min:
+    cmp bx, 97
+    je tenn
+    cmp bx, 98
+    je elev
+    cmp bx, 99
+    je twelve
+    cmp bx, 100
+    je thirteen
+    cmp bx, 101
+    je fourteen
+    cmp bx, 102
+    je fifteen
+    sub bl, '0'
+
+    
+afterr:
+    push ax
+    mov ax, cx
+    mul bx
+    xchg ax, bx
+    pop ax
+    add ax, bx
+    xchg ax, bx 
+    mov ax, num_from
+    mul cx
+    mov cx, ax
+    xchg ax, bx    
+    dec si 
+    jmp loooop  
+tenn:
+    mov bx, 10
+    jmp afterr
+elev:
+    mov bx, 11
+    jmp afterr    
+twelve:
+    mov bx, 12
+    jmp afterr    
+thirteen:
+    mov bx, 13
+    jmp afterr    
+fourteen:
+    mov bx, 14
+    jmp afterr    
+fifteen:
+    mov bx, 15
+    jmp afterr               
+minuss:
+    mov signn, '-'
+    dec si
+    jmp loooop    
+endddd:
+    mov number, ax    
+ret
+convert_to_ten endp
+
                             
 inputNumbers proc
     call printNewLine
@@ -41,8 +139,6 @@ invalidInput:
     lea dx, invalidInputString
     call outputString
     jno tryAgainOutput  ; if flag OVERFLOW (V) = 0
- ;   lea dx, overflowInputString
- ;   call outputString
 tryAgainOutput:
     lea dx, tryAgainString
     call outputString
@@ -82,14 +178,12 @@ isNumber:
 inHaveSign:
     cmp [si], '-'
     je negative     ; [si] = '-'
-    ;push 1
     mov sign, '+'
     cmp [si], '+'
     jne isNullString
     inc si
     jmp isNullString
 negative:
-   ; push -1
     mov sign, '-'
     inc si
     jmp isNullString                   
@@ -101,7 +195,6 @@ invalidString:
     cmp ax, 32768
     je goqwe
 inv:
-   ; pop bx ; 1 or -1
     stc
 ret
 endParsing:
@@ -138,13 +231,13 @@ inputString proc
     int 21h
 ret
 inputString endp
-   
- 
-NumberSystemInput proc
+
+
+NumberSystemInput2 proc
     call printNewLine
-    lea dx, notation 
+    lea dx, notation2 
     call outputString
-    lea di, length
+    lea di, num_from
     mov cx, 0001h   ; one number input
     call inputNumbers
     cmp ax, maxArrayLength
@@ -162,32 +255,53 @@ invalidLengthInput:
     call outputString
     call printNewLine
     jmp NumberSystemInput
+NumberSystemInput2 endp
+
+   
+NumberSystemInput proc
+    call printNewLine
+    lea dx, notation 
+    call outputString
+    lea di, length
+    mov cx, 0001h   ; one number input
+    call inputNumbers
+    cmp ax, maxArrayLength
+    jg invalidLengthInput2   ; more than 16
+    cmp ax, 0002h           
+    jl invalidLengthInput2   ; less than 2
+    mov al, [sign]
+    cmp al, '-'
+    je invalidLengthInput2
+ret
+invalidLengthInput2:
+    call printNewLine
+    lea dx, invalidLengthString
+    mov sign, '+'
+    call outputString
+    call printNewLine
+    jmp NumberSystemInput
 NumberSystemInput endp
         
         
-NumberInput proc
-    call printNewLine
-    lea di, number
-    mov cx, 0001h   ; one number input
-    call inputNumbers
-    mov number, ax
-    call printNewLine
-ret
-NumberInput endp
-
-
 decimalToCustomSystem proc
     lea dx, output_msg 
     call outputString
     mov ax, number
+    mov bx, length
     cmp ax, 0
     je nol
-    mov al, [sign]
+    mov al, [signn]
     cmp al, '-'
-    jne notMinus
+    jne notMinus    
+    cmp bx, 2
+    je bit_one:    
     mov dl, '-'
     mov ah, 2
     int 21h
+    jmp notMinus
+bit_one:
+    mov nn, 1     
+    mov ax, number    
 notMinus:    
     mov ax, number
     xor cx, cx
@@ -205,7 +319,6 @@ conversionLoop:
     inc cx
     cmp ax, 0
     jz zeroResult    
- ;  cmp al, 0h
     cmp ax, 0h
     je zeroResult    
     cmp ax, 0
@@ -213,6 +326,8 @@ conversionLoop:
     jz zeroResult
 zeroResult:
     mov ah, 2
+    cmp nn, 1
+    je dop
 printLoop:
     pop dx
     add dl, '0'
@@ -229,6 +344,89 @@ nol:
     add dl, '0'
     int 21h
 ret
+dop:
+     xor dx, dx
+     mov si, 1
+     xor ax, ax
+     mov ar[0], 1
+dop_code:
+    inc si
+    pop dx
+    mov ar[si], dl
+    loop dop_code  
+    xor ax, ax
+    mov dx, si
+    mov first_ind, dl    
+obrat_code:
+    cmp si, 1
+    je gotov    
+    cmp ar[si], 0
+    je go_one
+    mov ar[si], 0
+    dec si
+    jmp obrat_code
+go_one:
+    mov ar[si], 1
+    dec si
+    jmp obrat_code
+gotov:
+    mov dl, first_ind    
+    mov si, dx    
+    mov al, ar[si]
+    add al, 1
+    cmp al, 2
+    je add_2
+    mov ar[si], 1    
+    jmp end_perevod
+add_2:
+    mov ar[si], 0
+    mov ost, 1    
+    dec si    
+perevod_dop:
+    cmp si, 0
+    je end_perevod    
+    mov al, ar[si]
+    add al, ost
+    cmp al, 2    
+    je if_ost_2    
+    jmp end_perevod
+if_ost_2:
+    mov ar[si], 0
+    mov ost, 1
+    dec si
+    jmp perevod_dop
+end_perevod:
+    cmp ost, 1
+    je dollar_1     
+dollar_1:
+    mov ar[si], 1    
+    mov si, 0
+    push dx
+    xor dx, dx
+    mov dl, first_ind
+    mov cx, dx
+    pop dx
+    mov bx, cx
+    inc bx
+vivod:
+    cmp si, bx
+    je end_end
+    mov ah, 2
+    mov dl, ar[si]
+    cmp dl, 36
+    je skipp
+    add dl, '0'
+    cmp dx, '9'
+    jbe notGreaterThan9_2
+notGreaterThan9_2:
+    int 21h
+    inc si
+    jmp vivod 
+skipp:
+    inc si
+    jmp vivod
+end_end:
+    ret
 decimalToCustomSystem endp
 
 
@@ -258,7 +456,7 @@ ClearConsole proc
     int 10h
     ret    
 ClearConsole endp    
-  
+
   
 start:
     mov ax, @data
@@ -268,9 +466,10 @@ start:
     lea dx, inputLimitsString
     call outputString
     call printNewLine    
+    call NumberSystemInput2
+    call NumberInput
     call NumberSystemInput
-    mov ax, maxArrayLength[1]
-    call NumberInput                 
+    call printNewLine                      
     call decimalToCustomSystem
     call AskToRestart
     cmp al, '1'
