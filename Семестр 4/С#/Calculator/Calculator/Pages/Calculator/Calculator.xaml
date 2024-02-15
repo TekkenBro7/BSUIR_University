@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.Pages.Calculator.Calculator"
+             Title="Calculator">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="numberButtonStyle" TargetType="Button">
+                <Setter Property="TextColor" Value="#000" />
+                <Setter Property="BackgroundColor" Value="#fff" />
+                <Setter Property="BorderWidth" Value="2" />
+                <Setter Property="BorderColor" Value="#000" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="CornerRadius" Value="15"/>
+            </Style>
+            <Style x:Key="ColoredButtonStyle" TargetType="Button">
+                <Setter Property="TextColor" Value="#fff" />
+                <Setter Property="BackgroundColor" Value="#000" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="FontSize" Value="16"/>
+                <Setter Property="CornerRadius" Value="15"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <Grid Padding="8, 8" RowSpacing="4" ColumnSpacing="4"
+      RowDefinitions="2*,*,*,*,*,*,*"
+      ColumnDefinitions="*,*,*,*">
+        <Label x:Name="resultText"
+           LineBreakMode="WordWrap"
+           FontSize="32" FontAttributes="Bold" Text="0"
+           HorizontalTextAlignment="End"
+           VerticalTextAlignment="End"
+           TextColor="{StaticResource Light}"
+            Grid.ColumnSpan="4" />
+
+        <BoxView BackgroundColor="{StaticResource LightGray}" HeightRequest="3"
+             Grid.Row="0" VerticalOptions="End"
+             Grid.ColumnSpan="4"
+             />
+
+        <Button Text="С" Style="{StaticResource ColoredButtonStyle}" Grid.Row="2" Grid.Column="1" Clicked="OnSelectResetNum"/>
+
+        <Button Text="pi*x^2" Style="{StaticResource ColoredButtonStyle}" Grid.Row="1" Grid.Column="0" Clicked="OnSelectAreaCircle"/>
+
+        <Button Text="sqrt" Grid.Row="1" Style="{StaticResource ColoredButtonStyle}" Grid.Column="1" Clicked="OnSelectSqrt"/>
+
+        <Button Text="x^2" Grid.Row="1" Style="{StaticResource ColoredButtonStyle}" Grid.Column="2" Clicked="OnSelectTwoDegree"/>
+
+        <Button Text="1/x" Grid.Row="1" Style="{StaticResource ColoredButtonStyle}" Grid.Column="3" Clicked="OnSelectMinusDegree"/>
+
+        <Button Text="Del" Grid.Row="2" Style="{StaticResource ColoredButtonStyle}" Grid.Column="2" Clicked="OnSelectDeleteNum"/>
+
+        <Button Text="СE" Grid.Row="2" Style="{StaticResource ColoredButtonStyle}" Grid.Column="0" Clicked="OnSelectResetNum"/>
+
+        <Button Text="0" Style="{StaticResource numberButtonStyle}" Grid.Row="6" Grid.Column="1" Clicked="OnSelectNumber"/>
+
+        <Button Text="1" Style="{StaticResource numberButtonStyle}" Grid.Row="5" Grid.Column="0" Clicked="OnSelectNumber"/>
+
+        <Button Text="2" Style="{StaticResource numberButtonStyle}" Grid.Row="5" Grid.Column="1" Clicked="OnSelectNumber"/>
+
+        <Button Text="3" Style="{StaticResource numberButtonStyle}" Grid.Row="5" Grid.Column="2" Clicked="OnSelectNumber"/>
+
+        <Button Text="4" Style="{StaticResource numberButtonStyle}" Grid.Row="4" Grid.Column="0" Clicked="OnSelectNumber"/>
+
+        <Button Text="5" Style="{StaticResource numberButtonStyle}" Grid.Row="4" Grid.Column="1" Clicked="OnSelectNumber"/>
+
+        <Button Text="6" Style="{StaticResource numberButtonStyle}" Grid.Row="4" Grid.Column="2" Clicked="OnSelectNumber"/>
+
+        <Button Text="7" Style="{StaticResource numberButtonStyle}" Grid.Row="3" Grid.Column="0" Clicked="OnSelectNumber"/>
+
+        <Button Text="8" Style="{StaticResource numberButtonStyle}" Grid.Row="3" Grid.Column="1" Clicked="OnSelectNumber"/>
+
+        <Button Text="9" Style="{StaticResource numberButtonStyle}" Grid.Row="3" Grid.Column="2" Clicked="OnSelectNumber"/>
+
+        <Button Text="+/-" Style="{StaticResource numberButtonStyle}" Grid.Row="6" Grid.Column="0" Clicked="OnSelectMinus"/>
+
+        <Button Text="," Style="{StaticResource numberButtonStyle}" Grid.Row="6" Grid.Column="2" Clicked="OnSelectPlaceDot"/>
+
+        <Button Text="=" Style="{StaticResource ColoredButtonStyle}" Grid.Row="6" Grid.Column="3" Clicked="OnSelectResult"/>
+
+        <Button Text="+" Style="{StaticResource ColoredButtonStyle}" Grid.Row="5" Grid.Column="3" Clicked="OnSelectOperation"/>
+
+        <Button Text="-" Style="{StaticResource ColoredButtonStyle}" Grid.Row="4" Grid.Column="3" Clicked="OnSelectOperation"/>
+
+        <Button Text="*" Style="{StaticResource ColoredButtonStyle}" Grid.Row="3" Grid.Column="3" Clicked="OnSelectOperation"/>
+
+        <Button Text="/" Style="{StaticResource ColoredButtonStyle}" Grid.Row="2" Grid.Column="3" Clicked="OnSelectOperation"/>
+    </Grid>
+</ContentPage>
