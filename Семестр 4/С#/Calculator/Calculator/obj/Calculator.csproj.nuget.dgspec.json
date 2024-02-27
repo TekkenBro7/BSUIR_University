@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Calculator — копия\\Calculator\\Calculator.csproj": {}
+    "C:\\BSUIR_University\\Семестр 4\\С#\\Calculator\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Calculator — копия\\Calculator\\Calculator.csproj": {
+    "C:\\BSUIR_University\\Семестр 4\\С#\\Calculator\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Calculator — копия\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\BSUIR_University\\Семестр 4\\С#\\Calculator\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Calculator — копия\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\Calculator\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Tekken\\.nuget\\packages\\",
-        "outputPath": "C:\\Calculator — копия\\Calculator\\obj\\",
+        "outputPath": "C:\\BSUIR_University\\Семестр 4\\С#\\Calculator\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -61,6 +61,10 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -108,6 +112,10 @@
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
           "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -155,6 +163,10 @@
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
           "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -203,6 +215,10 @@
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
               "version": "[8.0.0, )"

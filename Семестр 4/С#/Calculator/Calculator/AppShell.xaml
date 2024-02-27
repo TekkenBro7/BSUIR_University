@@ -42,4 +42,13 @@
             />
         </Tab>
     </FlyoutItem>
+    <FlyoutItem Title="CurrencyConverter">
+        <Tab>
+            <ShellContent
+        Title="CurrencyConverter"
+        ContentTemplate="{DataTemplate local:Pages.CurrencyConverter.CurrencyConverter}"
+        Route="CurrencyConverterPage"
+        />
+        </Tab>
+    </FlyoutItem>
 </Shell>

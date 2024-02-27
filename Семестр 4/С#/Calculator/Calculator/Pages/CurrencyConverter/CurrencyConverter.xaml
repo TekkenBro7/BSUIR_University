@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.Pages.CurrencyConverter.CurrencyConverter"
+             Title="CurrencyConverter"
+             Loaded="OnLoaded">
+    <VerticalStackLayout>
+        <DatePicker
+            x:Name="dataPicker"
+            Format="dd/mm/yyyy"
+            MaximumDate="{Binding TodayDate}"
+            TextColor="Black"
+            HorizontalOptions="Center"
+            BackgroundColor="Bisque"
+            Margin="0, 0"
+            DateSelected="DateSelected"
+            FontAttributes="Bold"
+            FontSize="16"
+            MinimumDate="1995.12.29"/>
+        <CollectionView
+            x:Name="CollectionVie"
+            Margin="0,10,0,10"
+            HorizontalOptions="Center"
+            WidthRequest="380">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame HeightRequest="45" BorderColor="BurlyWood" CornerRadius="15">
+                        <HorizontalStackLayout Spacing="30">
+                            <Label Text="{Binding Cur_Abbreviation}" HeightRequest="20"/>
+                            <Label Text="{Binding Cur_Scale}" HeightRequest="20"/>
+                            <Label Text="{Binding Cur_Name}" HeightRequest="20"/>
+                            <Label Text="{Binding Cur_OfficialRate}" HeightRequest="20"/>
+                        </HorizontalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <HorizontalStackLayout>
+            <ScrollView Orientation="Horizontal" HorizontalScrollBarVisibility="Always" HorizontalOptions="Start">
+                <Entry
+                x:Name="CurrencyEntry"
+                Background="Bisque"
+                Margin="10,0"
+                FontSize="14"
+                Keyboard="Numeric"
+                TextChanged="OnCurrencyEntryTextChanged"
+                MaximumWidthRequest="100"
+                />
+            </ScrollView>
+            <Picker
+                x:Name="Cur_Abbreviation"
+                BackgroundColor="Bisque"
+                ItemDisplayBinding="{Binding Cur_Name}"               
+                SelectedIndexChanged="OnCurrentRateChanged"
+                />
+            <Label Text="⇔" Margin="20, 7" HorizontalOptions="Center" FontSize="30"/>
+            <ScrollView Orientation="Horizontal" HorizontalScrollBarVisibility="Always" HorizontalOptions="Start">
+                <Entry
+                x:Name="BynEntry"
+                Background="Bisque"
+                FontSize="14"
+                TextChanged="OnBynTextChanged"
+                MaximumWidthRequest="100"                
+                />
+            </ScrollView>
+            <Entry
+                x:Name="BYN" 
+                Background="Bisque"
+                Text="BYN"
+                FontSize="25"
+                Margin="-1.7,0"
+                IsReadOnly="True"
+                />
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>
