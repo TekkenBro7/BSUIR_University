@@ -24,5 +24,13 @@
     />
         </Tab>
     </FlyoutItem>
-
+    <FlyoutItem Title="ProgressBar">
+        <Tab>
+            <ShellContent
+                Title="ProgressBar"
+                ContentTemplate="{DataTemplate local:Pages.ProgressBar.ProgressBar}"
+                Route="ProgressBar"
+                />
+        </Tab>
+    </FlyoutItem>
 </Shell>

@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Calculator\Calculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-02-15T08:37:11.940</Modified>
+      <Modified>2024-02-24T10:08:45.688</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Calculator\Calculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-02-14T21:24:02.110</Modified>
+      <Modified>2024-02-17T17:07:05.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Calculator\Calculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.runtimeconfig.json">
       <PackagePath>Calculator.runtimeconfig.json</PackagePath>
-      <Modified>2024-02-14T19:34:28.971</Modified>
+      <Modified>2024-02-15T20:09:31.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Calculator\Calculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.dll">
       <PackagePath>Calculator.dll</PackagePath>
-      <Modified>2024-02-15T08:37:11.700</Modified>
+      <Modified>2024-02-24T10:08:45.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Calculator.exe</PackagePath>
-      <Modified>2024-02-15T08:37:11.703</Modified>
+      <Modified>2024-02-24T10:08:45.268</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Calculator\Calculator\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -287,7 +287,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Calculator\Calculator\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.deps.json">
       <PackagePath>Calculator.deps.json</PackagePath>
-      <Modified>2024-02-14T21:24:01.968</Modified>
+      <Modified>2024-02-17T12:41:32.349</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Tekken\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

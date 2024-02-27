@@ -1,6 +1,4 @@
-﻿
-
-namespace Calculator
+﻿namespace Calculator
 {
     public partial class AppShell : Shell
     {

@@ -1035,4 +1035,4 @@ C:\Calculator\Calculator\obj\Debug\net8.0-android\android\compressed_assemblies.
 C:\Calculator\Calculator\obj\Debug\net8.0-android\android\marshal_methods.arm64-v8a.o
 C:\Calculator\Calculator\obj\Debug\net8.0-android\android\jni_remap.arm64-v8a.o
 C:\Calculator\Calculator\obj\Debug\net8.0-android\app_shared_libraries\arm64-v8a\libxamarin-app.so
-c:\Calculator\Calculator\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Calculator\Calculator\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
