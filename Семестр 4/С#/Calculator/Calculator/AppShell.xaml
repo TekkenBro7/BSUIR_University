@@ -33,4 +33,13 @@
                 />
         </Tab>
     </FlyoutItem>
+    <FlyoutItem Title="SQLite">
+        <Tab>
+            <ShellContent
+            Title="SQLite"
+            ContentTemplate="{DataTemplate local:SQLitePage}"
+            Route="SQLitePage"
+            />
+        </Tab>
+    </FlyoutItem>
 </Shell>

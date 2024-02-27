@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Calculator — копия\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Calculator — копия\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Calculator — копия\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Calculator\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Calculator — копия\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\Tekken\\.nuget\\packages\\",
-        "outputPath": "C:\\Calculator\\Calculator\\obj\\",
+        "outputPath": "C:\\Calculator — копия\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -78,6 +78,10 @@
               "target": "Package",
               "version": "[8.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -121,6 +125,10 @@
               "target": "Package",
               "version": "[8.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -164,6 +172,10 @@
               "target": "Package",
               "version": "[8.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -202,6 +214,10 @@
             "Microsoft.Maui.Controls.Compatibility": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

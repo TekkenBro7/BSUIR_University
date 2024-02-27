@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.SQLitePage"              
+             xmlns:local="clr-namespace:Calculator"
+             xmlns:model="clr-namespace:Calculator.Pages.SQLite.Entities" 
+             x:DataType="local:SQLitePage"
+             Title="SQLitePage"      
+             Loaded="OnLoaded">
+    <ScrollView VerticalOptions="Fill"
+            HorizontalOptions="Fill">
+        <VerticalStackLayout>
+            <Picker x:Name="picker" 
+            Title = "Выберите автора, чтобы посмотреть список книг"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"
+            TextColor="Black"
+            BackgroundColor="Coral"
+            FontAttributes="Bold"
+            FontSize="16"
+            TitleColor="Chocolate"
+            SelectedIndexChanged="OnPickerSelectedIndexChanged"
+            ItemDisplayBinding="{Binding Name}"
+            ItemsSource="{Binding AuthorList}"/>
+            <CollectionView x:Name="collectionView"
+                        ItemsSource="{Binding BookList}"
+                        VerticalOptions="Fill"
+                        HorizontalOptions="Fill"
+                        Margin="40,0,0,0">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:DataType="model:Book">
+                        <VerticalStackLayout>
+                            <Frame BorderColor="BurlyWood" CornerRadius="20" HorizontalOptions="Start" WidthRequest="350">
+                                <StackLayout>
+                                    <Label FontAttributes="Bold" Text="{Binding Title}"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label FontSize="13" Text="{Binding Genre}" />
+                                        <Label FontSize="13" Margin="5,0,0,0" Text="{Binding Year}" />
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
