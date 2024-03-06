@@ -1,1 +1,0 @@
-C:\Calculator — копия — копия\Calculator\Calculator.csproj;x64

@@ -1,0 +1,1 @@
+C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\Calculator.csproj;x64
