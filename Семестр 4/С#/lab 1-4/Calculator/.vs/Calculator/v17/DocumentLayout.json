@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\services\\rateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\progressbar\\progressbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\progressbar\\progressbar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\sqlitepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\sqlitepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\currencyconverter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\currencyconverter.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\currencyconverter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\currencyconverter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\sqlitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\sqlitepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\services\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\services\\irateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\progressbar\\progressbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\progressbar\\progressbar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\entities\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.22678\\Rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\currencyconverter\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\currencyconverter\\entities\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.25586\\Currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\pages\\sqlite\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\pages\\sqlite\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 1-4\\calculator\\calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B17F9718-EE08-4327-A5E8-3BAF72E1DE51}|Calculator\\Calculator.csproj|solutionrelative:calculator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\IntegralCalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\Program.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:07:22.653Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLitePage.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\SQLitePage.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\SQLitePage.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\SQLitePage.xaml",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\SQLitePage.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T19:11:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\App.xaml.cs",
+              "RelativeToolTip": "Calculator\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Services\\IDbService.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\Services\\IDbService.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Services\\IDbService.cs",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\Services\\IDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SQLitePage.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\SQLitePage.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\SQLitePage.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\SQLitePage.xaml.cs",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\SQLitePage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressBar.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\ProgressBar\\ProgressBar.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\ProgressBar\\ProgressBar.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\ProgressBar\\ProgressBar.xaml.cs",
+              "RelativeToolTip": "Calculator\\Pages\\ProgressBar\\ProgressBar.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Calculator\\MauiProgram.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\MauiProgram.cs",
+              "RelativeToolTip": "Calculator\\MauiProgram.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RateService.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Services\\RateService.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\Services\\RateService.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Services\\RateService.cs",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\Services\\RateService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CurrencyConverter.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml.cs",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyConverter.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\CurrencyConverter.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAD4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T19:11:20.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLiteService.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Services\\SQLiteService.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\Services\\SQLiteService.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Services\\SQLiteService.cs",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\Services\\SQLiteService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwD8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRateService.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Services\\IRateService.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\Services\\IRateService.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Services\\IRateService.cs",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\Services\\IRateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProgressBar.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\ProgressBar\\ProgressBar.xaml",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\ProgressBar\\ProgressBar.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\ProgressBar\\ProgressBar.xaml",
+              "RelativeToolTip": "Calculator\\Pages\\ProgressBar\\ProgressBar.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T19:11:20.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.43\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAIwNMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-02-20T16:20:56.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Calculator\\AppShell.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\AppShell.xaml",
+              "RelativeToolTip": "Calculator\\AppShell.xaml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAewDAAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T19:11:20.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\App.xaml",
+              "RelativeDocumentMoniker": "Calculator\\App.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\App.xaml",
+              "RelativeToolTip": "Calculator\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T19:11:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Entities\\Rate.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\Entities\\Rate.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Entities\\Rate.cs",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\Entities\\Rate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.22678\\Rates.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.22678\\Rates.cs",
+              "ToolTip": "C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.22678\\Rates.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.22678\\Rates.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:35:44.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.25586\\Currency.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.25586\\Currency.cs",
+              "ToolTip": "C:\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.25586\\Currency.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Tekken\\AppData\\Local\\Temp\\Rar$DIa22272.25586\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:36:13.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Entities\\Currency.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\CurrencyConverter\\Entities\\Currency.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\CurrencyConverter\\Entities\\Currency.cs",
+              "RelativeToolTip": "Calculator\\Pages\\CurrencyConverter\\Entities\\Currency.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\Entities\\Book.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Entities\\Book.cs",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\Entities\\Book.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAwwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Calculator\\Pages\\SQLite\\Entities\\Author.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Pages\\SQLite\\Entities\\Author.cs",
+              "RelativeToolTip": "Calculator\\Pages\\SQLite\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Calculator\\AppShell.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\AppShell.xaml.cs",
+              "RelativeToolTip": "Calculator\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:11:20.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Calculator\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 1-4\\Calculator\\Calculator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Calculator\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T19:11:20.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IntegralCalculation.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\IntegralCalculation.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\IntegralCalculation.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\IntegralCalculation.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 3\\C#\\253505_\u0421\u043D\u0435\u0436\u043A\u043E_Lab7\\IntegralCalculation.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T15:07:32.235Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -20,7 +20,7 @@ namespace Calculator.Pages.CurrencyConverter.Services
         public IEnumerable<Rate>? GetRates(DateTime date)
         {
             List<Rate> rates = new();
-            string uri = $"https://api.nbrb.by/exrates/rates?ondate={date:yyyy-MM-dd}&periodicity=0";
+            string uri = $"{_httpClient.BaseAddress}?ondate={date:yyyy-MM-dd}&periodicity=0";
             var response = _httpClient.GetAsync(uri).Result;
             if (response.IsSuccessStatusCode)
             {

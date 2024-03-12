@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Manager.UI.Pages.AuthorList"
+             xmlns:entities="clr-namespace:Manager.Domain.Entities;assembly=Manager.Domain"
+             xmlns:models="clr-namespace:Manager.UI.ViewModels"
+             Title=""
+             x:DataType="models:AuthorListViewModel"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:converter="clr-namespace:Manager.UI.ValueConverters">
+    <ContentPage.Behaviors>
+        <toolkit:EventToCommandBehavior EventName="Loaded"
+        Command="{Binding UpdateAuthorListCommand }"/>
+    </ContentPage.Behaviors>
+    <ScrollView>
+        <VerticalStackLayout>
+            <Picker x:Name="SetPicker"
+                    FontAttributes="Bold"
+                    TitleColor="Chocolate"
+                    FontSize="22"             
+                    HorizontalOptions="CenterAndExpand"
+                    Title="Выберите автора"
+                    TextColor="Black"
+                    ItemsSource="{Binding Authors}"
+                    SelectedItem="{Binding SelectedAuthor}"
+                    ItemDisplayBinding="{Binding Name}">
+                <Picker.Behaviors>
+                    <toolkit:EventToCommandBehavior EventName="SelectedIndexChanged"
+                                    Command="{Binding UpdateBookListCommand}" />
+                </Picker.Behaviors>
+            </Picker>
+            <CollectionView x:Name="BookView"
+                            ItemsSource="{Binding Books}"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Fill"
+                            Margin="10,10,0,0">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate x:Name="BookItem"
+                              x:DataType="entities:Book">
+                        <VerticalStackLayout>
+                            <Frame BorderColor="Chocolate" CornerRadius="20" HorizontalOptions="Start" WidthRequest="400"
+                                   BackgroundColor="{Binding Rating, Converter={converter:RateToColorValueConverter}}">
+                                <Frame.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={RelativeSource AncestorType={x:Type models:AuthorListViewModel}},
+                                        Path=ShowDetailsCommand}" CommandParameter="{Binding}"/>
+                                </Frame.GestureRecognizers>
+                                <StackLayout>
+                                    <Label
+                                        Text="{Binding Name}"
+                                        TextColor="#000"
+                                        FontAttributes="Bold"
+                                        FontSize="16"
+                                        HorizontalOptions="Fill"
+                                        VerticalOptions="Fill"
+                                        FontAutoScalingEnabled="True"/>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label FontSize="14" Text="{Binding Genre}"/>
+                                        <Label FontSize="14" Margin="5,0,0,0" Text="{Binding Year}"/>
+                                        <Label FontSize="14" Margin="5,0,0,0" Text="{Binding Rating}"/>
+                                    </StackLayout>
+                                </StackLayout>
+                            </Frame>
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <HorizontalStackLayout HorizontalOptions="Center" Margin="30">
+                <Button Text="Добавить автора" TextColor="#fff" BackgroundColor="Chocolate" Command="{Binding AddAuthorCommand}"></Button>
+                <Label Text="_____" TextColor="White"/>
+                <Button Text="Добавить книгу" TextColor="#fff" BackgroundColor="Chocolate" Command="{Binding AddBookCommand}"></Button>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Manager.UI.Pages.AddBook"
+             xmlns:models="clr-namespace:Manager.UI.ViewModels"
+             x:DataType="models:AddBookViewModel"
+             Title="AddBook">
+    <VerticalStackLayout>
+        <Label Text="Имя Книги" 
+               HorizontalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               Margin="0,0,0,5"/>
+        <Entry WidthRequest="200" 
+               VerticalOptions="Center"
+               Text="{Binding BookName}"
+               Margin="0,0,0,20"/>
+        <Label Text="Жанр" 
+               HorizontalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               Margin="0,0,0,5"/>
+        <Entry WidthRequest="200" 
+               VerticalOptions="Center"
+               Text="{Binding BookGenre}"
+               Margin="0,0,0,20"/>
+        <Label Text="Год выпуска" 
+               HorizontalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               Margin="0,0,0,5"/>
+        <Entry WidthRequest="200" 
+               VerticalOptions="Center"
+               Text="{Binding BookYear}"
+               Margin="0,0,0,20"/>
+        <Label Text="Рейтинг" 
+               HorizontalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               Margin="0,0,0,5"/>
+        <Entry WidthRequest="200" 
+               VerticalOptions="Center"
+               Text="{Binding BookRating}"
+               Margin="0,0,0,20"/>
+        <Button VerticalOptions="Center" 
+                HorizontalOptions="Center"
+                Text="Add" Command="{Binding AddBookCommand}"
+                Margin="0,0,0,20"
+                BackgroundColor="Chocolate"
+                WidthRequest="150"/>
+    </VerticalStackLayout>
+</ContentPage>

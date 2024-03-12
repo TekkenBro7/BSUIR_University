@@ -1,0 +1,15 @@
+C:\Manager\Manager.Persistense\bin\Debug\net8.0\Manager.Persistense.deps.json
+C:\Manager\Manager.Persistense\bin\Debug\net8.0\Manager.Persistense.dll
+C:\Manager\Manager.Persistense\bin\Debug\net8.0\Manager.Persistense.pdb
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.AssemblyInfoInputs.cache
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.AssemblyInfo.cs
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.csproj.CoreCompileInputs.cache
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.dll
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\refint\Manager.Persistense.dll
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.pdb
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\ref\Manager.Persistense.dll
+C:\Manager\Manager.Persistense\bin\Debug\net8.0\Manager.Domain.dll
+C:\Manager\Manager.Persistense\bin\Debug\net8.0\Manager.Domain.pdb
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager.Persistense.csproj.AssemblyReference.cache
+C:\Manager\Manager.Persistense\obj\Debug\net8.0\Manager..128D9EE1.Up2Date

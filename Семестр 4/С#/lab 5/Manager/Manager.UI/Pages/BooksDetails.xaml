@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Manager.UI.Pages.BooksDetails"
+             xmlns:models="clr-namespace:Manager.UI.ViewModels"
+             x:DataType="models:BooksDetailsViewModel"
+             Title="BooksDetails"
+             xmlns:converter="clr-namespace:Manager.UI.ValueConverters">
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Image Source="{Binding Book.Id, Converter={converter:IdToImageValueConverter}}"
+        WidthRequest="200" HeightRequest="200" Margin="0,0,0,15"/>
+
+            <Frame HorizontalOptions="FillAndExpand"
+                   VerticalOptions="FillAndExpand" 
+                   HeightRequest="150"
+                   BorderColor="Chocolate"
+                   WidthRequest="400"
+                   CornerRadius="20"
+                   BackgroundColor="{Binding Book.Rating, Converter={converter:RateToColorValueConverter}}">
+                <StackLayout>
+                    <Label Text="{Binding Book.Name, StringFormat='Название: {0}'}" FontSize="20" FontAttributes="Bold"/>
+                    <Label Text="{Binding Book.Genre, StringFormat='Жанр: {0}'}" FontSize="16"/>
+                    <Label Text="{Binding Book.Year, StringFormat='Год выпуска: {0}'}" FontSize="16"/>
+                    <Label Text="{Binding Book.Rating, StringFormat='Рeйтинг: {0}'}" FontSize="16"/>
+                </StackLayout>
+            </Frame>
+            <Button Text="Edit" HorizontalOptions="Center" WidthRequest="200" Margin="20" BackgroundColor="Chocolate" Command="{Binding EditCommand}"/>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Manager.UI.Pages.AddAuthor"
+             xmlns:models="clr-namespace:Manager.UI.ViewModels"
+             x:DataType="models:AddAuthorViewModel"
+             Title="AddAuthor">
+    <VerticalStackLayout>
+        <Label Text="Имя автора" 
+               HorizontalOptions="CenterAndExpand"
+               FontAttributes="Bold"
+               Margin="0,0,0,10"/>
+        <Entry Text="{Binding NameAuthor}"
+                HeightRequest="50"
+                Placeholder="Имя"
+                WidthRequest="150"/>
+        <Label Text="Страна"
+               HorizontalOptions="CenterAndExpand"
+               Margin="0,20,0,10"
+               FontAttributes="Bold"/>
+        <Entry Text="{Binding CounryAuthor}"
+                Grid.Row="1"
+                Grid.Column="1"
+                Placeholder="Страна"
+                HeightRequest="50"
+                WidthRequest="150" />
+        <Button Text="Добавить"
+             Margin="0,30,0,0"
+             WidthRequest="200"
+             Command="{Binding AddAuthorCommand}"
+             BackgroundColor="Chocolate"/>
+    </VerticalStackLayout>
+</ContentPage>

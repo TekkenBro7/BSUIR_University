@@ -1,0 +1,15 @@
+C:\Manager\Manager.Application\bin\Debug\net8.0\Manager.Application.deps.json
+C:\Manager\Manager.Application\bin\Debug\net8.0\Manager.Application.dll
+C:\Manager\Manager.Application\bin\Debug\net8.0\Manager.Application.pdb
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.AssemblyInfoInputs.cache
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.AssemblyInfo.cs
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.csproj.CoreCompileInputs.cache
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.dll
+C:\Manager\Manager.Application\obj\Debug\net8.0\refint\Manager.Application.dll
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.pdb
+C:\Manager\Manager.Application\obj\Debug\net8.0\ref\Manager.Application.dll
+C:\Manager\Manager.Application\bin\Debug\net8.0\Manager.Domain.dll
+C:\Manager\Manager.Application\bin\Debug\net8.0\Manager.Domain.pdb
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager.Application.csproj.AssemblyReference.cache
+C:\Manager\Manager.Application\obj\Debug\net8.0\Manager..7F52DB9B.Up2Date

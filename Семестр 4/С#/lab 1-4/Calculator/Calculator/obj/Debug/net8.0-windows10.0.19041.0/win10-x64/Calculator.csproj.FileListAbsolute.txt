@@ -713,7 +713,6 @@ C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.csproj.CoreCompileInputs.cache
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.sourcelink.json
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
-C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.csproj.CopyComplete
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.dll
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Calculator.dll
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.pdb
@@ -735,3 +734,4 @@ C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\BSUIR_University\Семестр 4\С#\lab 1-4\Calculator\Calculator\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Calculator.csproj.Up2Date
