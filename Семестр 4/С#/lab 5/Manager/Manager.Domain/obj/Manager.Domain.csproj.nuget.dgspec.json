@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {}
+    "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+    "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj",
+        "projectUniqueName": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj",
         "projectName": "Manager.Domain",
-        "projectPath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj",
+        "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj",
         "packagesPath": "C:\\Users\\Tekken\\.nuget\\packages\\",
-        "outputPath": "C:\\Manager\\Manager.Domain\\obj\\",
+        "outputPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

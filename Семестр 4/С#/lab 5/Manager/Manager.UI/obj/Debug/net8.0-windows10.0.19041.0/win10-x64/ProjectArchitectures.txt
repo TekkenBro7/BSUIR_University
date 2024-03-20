@@ -1,1 +1,1 @@
-C:\Manager\Manager.UI\Manager.UI.csproj;x64
+C:\BSUIR_University\Семестр 4\С#\lab 5\Manager\Manager.UI\Manager.UI.csproj;x64

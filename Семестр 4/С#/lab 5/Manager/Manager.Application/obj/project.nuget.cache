@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IPJu1u/6Z1wwnU9cCoxWtoiulDSiF3+haxTbZZ7zygaFMPB9Z0sW3Pd8zcCIxzReXCbKE4Z9+e2TiFEbfKpkkw==",
+  "dgSpecHash": "r3imopfiOcU/+jHtdC4PEqsq1bJk8gvIGSoqcsCGFQHWEZZERMnN3d4AA+uJYdoGdu06d8EzD9s8brP8lp3XiQ==",
   "success": true,
-  "projectFilePath": "C:\\Manager\\Manager.Application\\Manager.Application.csproj",
+  "projectFilePath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tekken\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Tekken\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3yix6DHfHxui3o+RXG0t1Um2pR3cm+ErdIA6NnuRsw4FD8dtQxkgOHoFPWsvlUAzFRrtqlT0XoQ0aWfV5v4w/Q==",
+  "dgSpecHash": "CP0tBeoCzB6L7EAP//p7XPGRlomxB9hVgViVuGr57L3Ifam7s2YKAv5LLvbzL0egFTwDj7w5ZYV0+L77fMZpxQ==",
   "success": true,
-  "projectFilePath": "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj",
+  "projectFilePath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.2\\microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.2\\microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",

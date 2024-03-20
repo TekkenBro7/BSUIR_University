@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1U1KpXlRcoctLflcqtFhsa09DtRnrtkZyTARMyjCF9IhenD/cLKxmiO6xUZbt65OPW5fkkFRpmnNEabvTw0iVw==",
+  "dgSpecHash": "Xh82XtdWQw48y1d8AHg2rrR4HK3vDHLDlE1xYYAQ7YdzP78wA0XuCgpQAYTfFdfyAnRsokK1zhiVSF7RAiEHNg==",
   "success": true,
-  "projectFilePath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj",
+  "projectFilePath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1emooB/qQ451Mv6XuPZqf7K7IUkNZD+/QH2VBGKepmHsEdaBrmBvcU0Pcr90SEcvHJuaOHiYVyaWgzMjgOPM/g==",
+  "dgSpecHash": "4yu8GFzQ9/k1JOMlywuzUgSNw70fE0dHOHjV0Fb0kIcTXVGMDiWO2sWt/5NiikKDoBFymf7B5Fbg+xvLwhGQxQ==",
   "success": true,
-  "projectFilePath": "C:\\Manager\\Manager.UI\\Manager.UI.csproj",
+  "projectFilePath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.UI\\Manager.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tekken\\.nuget\\packages\\communitytoolkit.maui\\7.0.1\\communitytoolkit.maui.7.0.1.nupkg.sha512",
     "C:\\Users\\Tekken\\.nuget\\packages\\communitytoolkit.maui.core\\7.0.1\\communitytoolkit.maui.core.7.0.1.nupkg.sha512",

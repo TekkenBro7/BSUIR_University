@@ -49923,11 +49923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Manager\\Manager.UI\\Manager.UI.csproj",
+      "projectUniqueName": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.UI\\Manager.UI.csproj",
       "projectName": "Manager.UI",
-      "projectPath": "C:\\Manager\\Manager.UI\\Manager.UI.csproj",
+      "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.UI\\Manager.UI.csproj",
       "packagesPath": "C:\\Users\\Tekken\\.nuget\\packages\\",
-      "outputPath": "C:\\Manager\\Manager.UI\\obj\\",
+      "outputPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.UI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -49953,56 +49953,56 @@
         "net8.0-android34.0": {
           "targetAlias": "net8.0-android",
           "projectReferences": {
-            "C:\\Manager\\Manager.Application\\Manager.Application.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Application\\Manager.Application.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj"
             },
-            "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj"
             },
-            "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
             }
           }
         },
         "net8.0-ios17.2": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {
-            "C:\\Manager\\Manager.Application\\Manager.Application.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Application\\Manager.Application.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj"
             },
-            "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj"
             },
-            "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
             }
           }
         },
         "net8.0-maccatalyst17.2": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {
-            "C:\\Manager\\Manager.Application\\Manager.Application.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Application\\Manager.Application.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj"
             },
-            "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj"
             },
-            "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
             }
           }
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
           "projectReferences": {
-            "C:\\Manager\\Manager.Application\\Manager.Application.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Application\\Manager.Application.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Application\\Manager.Application.csproj"
             },
-            "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Domain\\Manager.Domain.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Domain\\Manager.Domain.csproj"
             },
-            "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
-              "projectPath": "C:\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
+            "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj": {
+              "projectPath": "C:\\BSUIR_University\\Семестр 4\\С#\\lab 5\\Manager\\Manager.Persistense\\Manager.Persistense.csproj"
             }
           }
         }

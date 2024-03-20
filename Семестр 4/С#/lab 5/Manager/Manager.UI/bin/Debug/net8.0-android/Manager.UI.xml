@@ -66,7 +66,7 @@
             <summary>The backing field for <see cref="P:Manager.UI.ViewModels.AuthorListViewModel.UpdateBookListCommand"/>.</summary>
         </member>
         <member name="P:Manager.UI.ViewModels.AuthorListViewModel.UpdateBookListCommand">
-            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Manager.UI.ViewModels.AuthorListViewModel.UpdateBookList"/>.</summary>
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:Manager.UI.ViewModels.AuthorListViewModel.UpdateBookList"/>.</summary>
         </member>
         <member name="F:Manager.UI.ViewModels.AuthorListViewModel.addBookCommand">
             <summary>The backing field for <see cref="P:Manager.UI.ViewModels.AuthorListViewModel.AddBookCommand"/>.</summary>
