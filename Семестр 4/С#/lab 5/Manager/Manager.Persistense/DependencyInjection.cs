@@ -15,7 +15,7 @@ namespace Manager.Persistense
         public static IServiceCollection AddPersistence(this IServiceCollection services)
         {
             services.AddSingleton<IUnitOfWork, FakeUnitOfWork>();
-            services.AddSingleton<IUnitOfWork, EfUnitOfWork>();
+     //       services.AddSingleton<IUnitOfWork, EfUnitOfWork>();
             return services;
         }
         public static IServiceCollection AddPersistence(

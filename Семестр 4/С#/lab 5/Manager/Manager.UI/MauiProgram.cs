@@ -37,9 +37,9 @@ namespace Manager.UI
                 .AddPersistence(options)
                 .RegisterPages()
                 .RegisterViewModels();
-            DbInitializer
-                .Initialize(builder.Services.BuildServiceProvider())
-                .Wait();
+          //  DbInitializer
+          //      .Initialize(builder.Services.BuildServiceProvider())
+          //      .Wait();
 
 #if DEBUG
             builder.Logging.AddDebug();

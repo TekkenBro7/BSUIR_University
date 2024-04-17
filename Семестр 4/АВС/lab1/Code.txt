@@ -1,0 +1,148 @@
+#include <iostream>
+#include <cmath>
+#include <iomanip>
+#include <chrono>
+#include <fstream>
+
+using std::cin, std::cout;
+
+int main() {
+    std::fstream file;
+    file.open("output.txt", std::ios::out);
+    file << "S\tY\tn\ttime\n";
+
+    double a = 0.999, b = 0.99999, h = 0.00001, e = 1e-15;
+    double Y, S, x, n;
+    constexpr double up = 10000000;
+    /*cout << "a = ";
+    cin >> a;
+    cout << "b = ";
+    cin >> b;
+    cout << "h = ";
+    cin >> h;
+    cout << "e = ";
+    cin >> e;*/
+
+    double num, den, buff = 0;
+    double pow;
+    double k = 4;
+    double kk = 2;
+
+    asm (
+        "fldpi;"
+        "fdivl %0;"
+        "fstpl %0;" : "=m" (k)
+    );
+
+    for (x = a; x <= b; ) {
+        if (fabs(x) < 1e-14)
+            x = 0;
+
+        asm (
+            "fldl %0;"
+            "fsin;"
+            "fmull %1;"
+            "fstpl %2;" : "=m" (k), "=m" (x), "=m" (num)
+        );
+        kk = 2;
+        asm (
+            "fldl %0;"
+            "fcos;"
+            "fmull %1;"
+            "fmull %2;"
+            "fchs;" : "=m" (k), "=m" (x), "=m" (kk)
+        );
+        kk = 1;
+        asm (
+            "faddl %2;"
+            "fstpl %1;"
+            "fldl %0;"
+            "fmull %0;"
+            "faddl %1;"
+            "fstpl %3;" : "=m" (x), "=m" (buff), "=m" (kk), "=m" (den)
+        );
+        asm (
+            "fldl %0;"
+            "fdivl %2;"
+            "fstpl %1;" : "=m" (num), "=m" (Y), "=m" (den)
+        );
+
+        pow = 1;
+        n = 1;
+        S = 0;
+        auto start = std::chrono::steady_clock::now();
+        asm (
+            "y_loop:"
+            "fldl %0;"
+            "fmull %1;"
+            "fstpl %0;"
+            "fldl %2;"
+            "fmull %3;"
+            "fsin;"
+            "fmull %0;"
+            "faddl %4;"
+            "fstpl %4;"
+            "fldl %3;"
+            "faddl %5;"
+            "fstpl %3;"
+            "fcoml %6;"
+            "fstsw %%ax;"
+            "sahf;"
+            "ja skip;"
+            "jmp calc_ok;"
+            "skip:"
+            : "=m" (pow), "=m" (x), "=m" (k), "=m" (n), "=m" (S), "=m" (kk): "m" (up)
+        );
+        cout << std::setprecision(6) << "Couldn't calculate S(" << x << ")" << "\t\tY(" << x << ") = " << std::setprecision(9) << Y << "\n";
+        asm (
+            "fldl %0;"
+            "fsubl %1;"
+            "fstpl %0;"
+            "jmp y_end;"
+            : "=m" (n) : "m" (kk)
+        );
+
+        asm (
+            "calc_ok:"
+        );
+        if (fabs(Y - S) < e) {
+            auto end = std::chrono::steady_clock::now();
+            auto elapsed_mcs = std::chrono::duration_cast<std::chrono::microseconds>(end - start);
+            asm (
+                "fldl %0;"
+                "fsubl %1;"
+                "fstpl %0;"
+                : "=m" (n) : "m" (kk)
+            );
+            file << std::defaultfloat << std::setprecision(6) << Y << "\t" << S << "\t" << std::fixed << std::setprecision(0) << n << "\t" << std::to_string(elapsed_mcs.count()) << "\n";
+
+            /*cout  << std::setprecision(6) << "S(" << x << ") = " << std::setprecision(9) << S << "\t";
+            if (x == 0)
+                cout << "\t";
+            cout << std::setprecision(6) << "Y(" << x << ") = " << std::setprecision(9) << Y << "\t";
+            if (x == 0)
+                cout << "\t";
+            cout << std::setprecision(6) << "n = " << n << "\ttime: " << elapsed_mcs.count() << "mcs" << "\n";*/
+
+            asm (
+                "jmp y_end;"
+            );
+        }
+
+        asm (
+            "jmp y_loop;"
+        );
+
+        asm (
+            "y_end:"
+        );
+        asm (
+            "fldl %0;"
+            "faddl %1;"
+            "fstpl %0;" : "=m" (x) : "m" (h)
+        );
+    }
+    file.close();
+
+    return 0;
+}

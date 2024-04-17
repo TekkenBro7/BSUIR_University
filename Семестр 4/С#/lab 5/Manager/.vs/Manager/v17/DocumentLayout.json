@@ -3,6 +3,138 @@
   "WorkspaceRootPath": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\booksdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\booksdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\authorlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\authorlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\valueconverters\\idtoimagevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\valueconverters\\idtoimagevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\editbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\editbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addauthor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addauthor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\regviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\regviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\booksdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\booksdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakeauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakeauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\authorusecases\\queries\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\authorusecases\\queries\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\authorlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\authorlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\queries\\authorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\queries\\authorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\commands\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\commands\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\commands\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\commands\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
@@ -12,46 +144,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addauthor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addauthor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\authorlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\booksdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\booksdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\commands\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\commands\\editbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\authorlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\authorlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\efunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -66,36 +158,12 @@
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\resources\\fonts\\opensans-regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\resources\\fonts\\opensans-regular.ttf||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\valueconverters\\idtoimagevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\valueconverters\\idtoimagevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\commands\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\commands\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\editbook.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -109,10 +177,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\addauthorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -121,76 +185,12 @@
       "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\authorusecases\\commands\\addauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\authorusecases\\queries\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\authorusecases\\queries\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\viewmodels\\regviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\viewmodels\\regviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\valueconverters\\ratetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\valueconverters\\ratetocolorvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\authorlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\authorlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\booksdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\booksdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\bookusecases\\queries\\authorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\bookusecases\\queries\\authorbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\editbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\editbook.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\pages\\addauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\pages\\addauthor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4099F8B8-B96A-420B-981D-A12599E7CA79}|Manager.Domain\\Manager.Domain.csproj|solutionrelative:manager.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|solutionrelative:manager.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D68DE316-C2CD-4207-A853-BE2483123930}|Manager.UI\\Manager.UI.csproj|solutionrelative:manager.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakeunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakebookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\repository\\fakeauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\repository\\fakeauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.persistense\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5E7A8D-1218-42C7-BD37-DD6DB6E888C2}|Manager.Persistense\\Manager.Persistense.csproj|solutionrelative:manager.persistense\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{403D2972-0758-4070-B542-1A19C9490B57}|Manager.Application\\Manager.Application.csproj|c:\\bsuir_university\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0441#\\lab 5\\manager\\manager.application\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -233,233 +233,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Xamarin.Android.Aapt2.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
-              "ViewState": "AQIAAMkAAAAAAAAAAAAtwNUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-03-12T12:34:27.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AuthorListViewModel.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AuthorListViewModel.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AuthorListViewModel.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AuthorListViewModel.cs",
-              "RelativeToolTip": "Manager.UI\\ViewModels\\AuthorListViewModel.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAA6wEkAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T21:10:11.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthorList.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AuthorList.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml",
-              "RelativeToolTip": "Manager.UI\\Pages\\AuthorList.xaml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAwAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-09T12:32:18.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BooksDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
-              "RelativeToolTip": "Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:33:26.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Entity.cs",
-              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Entity.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Entity.cs",
-              "RelativeToolTip": "Manager.Domain\\Entities\\Entity.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBAAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T09:00:29.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Abstractions\\IRepository.cs",
-              "RelativeDocumentMoniker": "Manager.Domain\\Abstractions\\IRepository.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Abstractions\\IRepository.cs",
-              "RelativeToolTip": "Manager.Domain\\Abstractions\\IRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T22:31:18.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Author.cs",
-              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Author.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Author.cs",
-              "RelativeToolTip": "Manager.Domain\\Entities\\Author.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T09:33:41.548Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddAuthor.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AddAuthor.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml",
-              "RelativeToolTip": "Manager.UI\\Pages\\AddAuthor.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T15:29:16.209Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Book.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Book.cs",
-              "RelativeToolTip": "Manager.Domain\\Entities\\Book.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T09:33:51.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "AddBook.xaml",
               "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddBook.xaml",
               "RelativeDocumentMoniker": "Manager.UI\\Pages\\AddBook.xaml",
               "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddBook.xaml",
               "RelativeToolTip": "Manager.UI\\Pages\\AddBook.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAkAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-03-11T15:29:57.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EfUnitOfWork.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\EfUnitOfWork.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfUnitOfWork.cs",
-              "RelativeToolTip": "Manager.Persistense\\Repository\\EfUnitOfWork.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAwwBoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:14:56.608Z"
+              "DocumentIndex": 1,
+              "Title": "AuthorList.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AuthorList.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml",
+              "RelativeToolTip": "Manager.UI\\Pages\\AuthorList.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T12:32:18.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\MauiProgram.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MauiProgram.cs",
-              "RelativeToolTip": "Manager.UI\\MauiProgram.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACgAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:02:02.64Z"
+              "DocumentIndex": 2,
+              "Title": "EditBook.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\EditBook.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml",
+              "RelativeToolTip": "Manager.UI\\Pages\\EditBook.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T14:42:06.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "IdToImageValueConverter.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
+              "RelativeToolTip": "Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:29:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditBook.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\EditBook.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml.cs",
+              "RelativeToolTip": "Manager.UI\\Pages\\EditBook.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:42:19.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EditBookViewModel.cs",
               "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\EditBookViewModel.cs",
               "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\EditBookViewModel.cs",
               "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\EditBookViewModel.cs",
               "RelativeToolTip": "Manager.UI\\ViewModels\\EditBookViewModel.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAiwDAAAAAIAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwFAAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T20:45:10.687Z"
+              "WhenOpened": "2024-03-11T20:45:10.687Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EditBook.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
-              "RelativeToolTip": "Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAApwBAAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T08:36:44.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\App.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml",
-              "RelativeToolTip": "Manager.UI\\App.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "BooksDetails.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\BooksDetails.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\BooksDetails.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\BooksDetails.xaml",
+              "RelativeToolTip": "Manager.UI\\Pages\\BooksDetails.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-07T16:04:23.215Z"
+              "WhenOpened": "2024-03-10T15:32:57.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\App.xaml.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml.cs",
-              "RelativeToolTip": "Manager.UI\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:04:30.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\AppShell.xaml.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml.cs",
-              "RelativeToolTip": "Manager.UI\\AppShell.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-07T16:04:28.22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\AppShell.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml",
-              "RelativeToolTip": "Manager.UI\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "DocumentIndex": 7,
+              "Title": "AddAuthor.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AddAuthor.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml",
+              "RelativeToolTip": "Manager.UI\\Pages\\AddAuthor.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-07T16:04:25.009Z"
+              "WhenOpened": "2024-03-11T15:29:16.209Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Manager.UI\\GlobalUsings.cs",
@@ -471,222 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\MainPage.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MainPage.xaml",
-              "RelativeToolTip": "Manager.UI\\MainPage.xaml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-09T12:56:33.736Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OpenSans-Regular.ttf",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
-              "RelativeDocumentMoniker": "Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
-              "RelativeToolTip": "Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKSSURBVDhPzZTPbxJBFMffDLCwQAUxEOkP0FJCDzUlUQ7\u002BBxy8eSYSD/43JvY/8O7Vi\u002BEPKL0QEy8NNZHUSrSAsfxmZ3/43uzOFqiJ9eZn8zKzb2a\u002B773ZmWVbW1uBYDAIjDH4F2i\u002B4zh2v993xuOx60QHe43sIVHE9d4Kis5QSLRarfeNRuNDs9k8o4FgqVQ6KJcPy/H4xgY5boksZz6f2\u002Bl0\u002Bl44HE5gxu\u002BOj4/bgXq9/nJ7eycXQ7D0awK0EyG37zXroFAIua/regrN7vV654FarfYim81uapoWlrEVjuN1bqL2m3NOWTIUzmCmDzCn71yOeOCeXhu9q8fz/YlUKgW5XI4Xi8VspVJ5xWmiZVkrYrZt37Bl//JcyhYzZVg6x7KjUnB5MombpgW/RgZMZkK\u002Buz7TD0zzCOoTJIrGSNgXVCZMG4YTEz6fT\u002BGyP/eFyFR261mSKeGVDGmRwOy6lws4\u002BTSEMxSdL0x/TM2jdjkAoVr/o6hBwzDhx4DExvCxTe3EH1PmfTGJElJweqUFxHAi4BtmF8QwMZ3Bl\u002B4MWqcjPxu/tbF11oJ4cDyfMh45p1MTej9nEEex/XwIIADQ7howGBpgWqsC60ZQw/FGSMdCWDDF/VpgyYl4AA4KEdjZjIDAjb4YGPJjUXY3ypdC1Jc94GqzRxPLnhhga7EwJO7okE7pcFiMwf5D3bmcOpZp2\u002B5qZF3Qxe1zQwg5ENehm8\u002BEvj7K66CFGMSjIXi8F4NnTxJXTwvR06gWFHLFX2Bvjo7eFnZ3DyKRiIPlkDb\u002BdZYjwwJtjGfsLp1dedYYdw8zl7dE9vFOzzudzgWrVqvPk8lkBq\u002BO5pbhlrQmKhcqpBj9wbx/Mo0JIcwrxPX8vwD8Bk7yChnmb0LrAAAAAElFTkSuQmCC",
-              "WhenOpened": "2024-03-12T09:55:26.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IdToImageValueConverter.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
-              "RelativeToolTip": "Manager.UI\\ValueConverters\\IdToImageValueConverter.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T21:29:16.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "AuthorBook.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
-              "RelativeToolTip": "Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBgAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T18:01:49.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EditBook.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\EditBook.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml",
-              "RelativeToolTip": "Manager.UI\\Pages\\EditBook.xaml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-11T14:42:06.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AddBookViewModel.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddBookViewModel.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AddBookViewModel.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddBookViewModel.cs",
-              "RelativeToolTip": "Manager.UI\\ViewModels\\AddBookViewModel.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAtwDIAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T21:44:22.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Microsoft.Maui.Resizetizer.After.targets",
-              "DocumentMoniker": "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
-              "ToolTip": "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
-              "ViewState": "AQIAAGICAAAAAAAAAAAvwGwCAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-03-11T19:53:40.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "EfRepository.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfRepository.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\EfRepository.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfRepository.cs",
-              "RelativeToolTip": "Manager.Persistense\\Repository\\EfRepository.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAApwEUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T12:02:04.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAApwEQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:23:32.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Author.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
-              "RelativeToolTip": "Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T17:27:23.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AddAuthorViewModel.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
-              "RelativeToolTip": "Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAA5wB4AAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:29:32.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AddAuthor.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
-              "RelativeToolTip": "Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T19:12:34.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "RegViewModels.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\RegViewModels.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\RegViewModels.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\RegViewModels.cs",
-              "RelativeToolTip": "Manager.UI\\ViewModels\\RegViewModels.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBEAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T15:38:15.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "RateToColorValueConverter.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
-              "RelativeToolTip": "Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T23:02:43.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "BooksDetails.xaml",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\BooksDetails.xaml",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\BooksDetails.xaml",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\BooksDetails.xaml",
-              "RelativeToolTip": "Manager.UI\\Pages\\BooksDetails.xaml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-10T15:32:57.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AuthorList.xaml.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AuthorList.xaml.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml.cs",
-              "RelativeToolTip": "Manager.UI\\Pages\\AuthorList.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:17:16.665Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AuthorBooks.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
-              "RelativeToolTip": "Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:03:41.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "EditBook.xaml.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\EditBook.xaml.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\EditBook.xaml.cs",
-              "RelativeToolTip": "Manager.UI\\Pages\\EditBook.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:42:19.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 10,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Abstractions\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Manager.Domain\\Abstractions\\IUnitOfWork.cs",
@@ -698,7 +363,454 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Manager.Domain\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T22:31:18.987Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "Manager.Domain\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:33:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\GlobalUsings.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\GlobalUsings.cs",
+              "RelativeToolTip": "Manager.Persistense\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:30:18.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Manager.Persistense\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:33:57.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegViewModels.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\RegViewModels.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\RegViewModels.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\RegViewModels.cs",
+              "RelativeToolTip": "Manager.UI\\ViewModels\\RegViewModels.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:38:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BooksDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
+              "RelativeToolTip": "Manager.UI\\ViewModels\\BooksDetailsViewModel.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:33:26.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FakeUnitOfWork.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
+              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:29:06.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\DependencyInjection.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\DependencyInjection.cs",
+              "RelativeToolTip": "Manager.Persistense\\DependencyInjection.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:33:28.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FakeAuthorRepository.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
+              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:41:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\MauiProgram.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MauiProgram.cs",
+              "RelativeToolTip": "Manager.UI\\MauiProgram.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:02:02.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\EfRepository.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfRepository.cs",
+              "RelativeToolTip": "Manager.Persistense\\Repository\\EfRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:02:04.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\DbInitializer.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DbInitializer.cs",
+              "RelativeToolTip": "Manager.Application\\DbInitializer.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:04:38.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Manager.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:14:59.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfUnitOfWork.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\EfUnitOfWork.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\EfUnitOfWork.cs",
+              "RelativeToolTip": "Manager.Persistense\\Repository\\EfUnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T14:14:56.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
+              "RelativeToolTip": "Manager.Application\\AuthorUseCases\\Queries\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:27:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthorListViewModel.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AuthorListViewModel.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AuthorListViewModel.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AuthorListViewModel.cs",
+              "RelativeToolTip": "Manager.UI\\ViewModels\\AuthorListViewModel.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADwvz4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:10:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FakeBookRepository.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeBookRepository.cs",
+              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeBookRepository.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeBookRepository.cs",
+              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeBookRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvyIAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:08:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\AppShell.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml",
+              "RelativeToolTip": "Manager.UI\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T16:04:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthorList.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AuthorList.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AuthorList.xaml.cs",
+              "RelativeToolTip": "Manager.UI\\Pages\\AuthorList.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:17:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddAuthor.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AddAuthor.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml.cs",
+              "RelativeToolTip": "Manager.UI\\Pages\\AddAuthor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:43:08.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AuthorBooks.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
+              "RelativeToolTip": "Manager.Application\\BookUseCases\\Queries\\AuthorBooks.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:03:41.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthorBook.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
+              "RelativeToolTip": "Manager.Application\\BookUseCases\\Commands\\AuthorBook.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T18:01:49.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EditBook.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
+              "RelativeToolTip": "Manager.Application\\BookUseCases\\Commands\\EditBook.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T08:36:44.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Manager.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:00:29.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\34.0.52\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAtwNUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-12T12:34:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Manager.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "Manager.Domain\\Entities\\Book.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T09:33:51.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\App.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml",
+              "RelativeToolTip": "Manager.UI\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-07T16:04:23.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\App.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\App.xaml.cs",
+              "RelativeToolTip": "Manager.UI\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:04:30.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\AppShell.xaml.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\AppShell.xaml.cs",
+              "RelativeToolTip": "Manager.UI\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:04:28.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Manager.UI\\MainPage.xaml",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\MainPage.xaml",
+              "RelativeToolTip": "Manager.UI\\MainPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T12:56:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OpenSans-Regular.ttf",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "RelativeDocumentMoniker": "Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "RelativeToolTip": "Manager.UI\\Resources\\Fonts\\OpenSans-Regular.ttf",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKSSURBVDhPzZTPbxJBFMffDLCwQAUxEOkP0FJCDzUlUQ7\u002BBxy8eSYSD/43JvY/8O7Vi\u002BEPKL0QEy8NNZHUSrSAsfxmZ3/43uzOFqiJ9eZn8zKzb2a\u002B773ZmWVbW1uBYDAIjDH4F2i\u002B4zh2v993xuOx60QHe43sIVHE9d4Kis5QSLRarfeNRuNDs9k8o4FgqVQ6KJcPy/H4xgY5boksZz6f2\u002Bl0\u002Bl44HE5gxu\u002BOj4/bgXq9/nJ7eycXQ7D0awK0EyG37zXroFAIua/regrN7vV654FarfYim81uapoWlrEVjuN1bqL2m3NOWTIUzmCmDzCn71yOeOCeXhu9q8fz/YlUKgW5XI4Xi8VspVJ5xWmiZVkrYrZt37Bl//JcyhYzZVg6x7KjUnB5MombpgW/RgZMZkK\u002Buz7TD0zzCOoTJIrGSNgXVCZMG4YTEz6fT\u002BGyP/eFyFR261mSKeGVDGmRwOy6lws4\u002BTSEMxSdL0x/TM2jdjkAoVr/o6hBwzDhx4DExvCxTe3EH1PmfTGJElJweqUFxHAi4BtmF8QwMZ3Bl\u002B4MWqcjPxu/tbF11oJ4cDyfMh45p1MTej9nEEex/XwIIADQ7howGBpgWqsC60ZQw/FGSMdCWDDF/VpgyYl4AA4KEdjZjIDAjb4YGPJjUXY3ypdC1Jc94GqzRxPLnhhga7EwJO7okE7pcFiMwf5D3bmcOpZp2\u002B5qZF3Qxe1zQwg5ENehm8\u002BEvj7K66CFGMSjIXi8F4NnTxJXTwvR06gWFHLFX2Bvjo7eFnZ3DyKRiIPlkDb\u002BdZYjwwJtjGfsLp1dedYYdw8zl7dE9vFOzzudzgWrVqvPk8lkBq\u002BO5pbhlrQmKhcqpBj9wbx/Mo0JIcwrxPX8vwD8Bk7yChnmb0LrAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-03-12T09:55:26.506Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 42,
+              "Title": "AddBookViewModel.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddBookViewModel.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AddBookViewModel.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddBookViewModel.cs",
+              "RelativeToolTip": "Manager.UI\\ViewModels\\AddBookViewModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAtwDIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T21:44:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Microsoft.Maui.Resizetizer.After.targets",
+              "DocumentMoniker": "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ToolTip": "C:\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Tekken\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.6\\buildTransitive\\Microsoft.Maui.Resizetizer.After.targets",
+              "ViewState": "AQIAAGICAAAAAAAAAAAvwGwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-03-11T19:53:40.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "Manager.UI\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAApwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:23:32.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddAuthorViewModel.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
+              "RelativeToolTip": "Manager.UI\\ViewModels\\AddAuthorViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA5wB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:29:32.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddAuthor.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
+              "RelativeDocumentMoniker": "Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
+              "RelativeToolTip": "Manager.Application\\AuthorUseCases\\Commands\\AddAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:12:34.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RateToColorValueConverter.cs",
+              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "RelativeDocumentMoniker": "Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "RelativeToolTip": "Manager.UI\\ValueConverters\\RateToColorValueConverter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:02:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\appsettings.json",
               "RelativeDocumentMoniker": "Manager.UI\\appsettings.json",
@@ -707,102 +819,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-10T11:12:42.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\DependencyInjection.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\DependencyInjection.cs",
-              "RelativeToolTip": "Manager.Persistense\\DependencyInjection.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T15:33:28.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\DbInitializer.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DbInitializer.cs",
-              "RelativeToolTip": "Manager.Application\\DbInitializer.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T13:04:38.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Manager.Application\\DependencyInjection.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Application\\DependencyInjection.cs",
-              "RelativeToolTip": "Manager.Application\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T17:14:59.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\GlobalUsings.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\GlobalUsings.cs",
-              "RelativeToolTip": "Manager.Persistense\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:30:18.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "FakeUnitOfWork.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
-              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeUnitOfWork.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAqwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T15:29:06.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "FakeBookRepository.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeBookRepository.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeBookRepository.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeBookRepository.cs",
-              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeBookRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCIAAAB1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T15:08:00.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "FakeAuthorRepository.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
-              "RelativeToolTip": "Manager.Persistense\\Repository\\FakeAuthorRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T14:41:57.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Manager.Persistense\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.Persistense\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Manager.Persistense\\Data\\AppDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T11:33:57.099Z"
             },
             {
               "$type": "Document",
@@ -815,18 +831,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T17:13:19.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "AddAuthor.xaml.cs",
-              "DocumentMoniker": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml.cs",
-              "RelativeDocumentMoniker": "Manager.UI\\Pages\\AddAuthor.xaml.cs",
-              "ToolTip": "C:\\BSUIR_University\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440 4\\\u0421#\\lab 5\\Manager\\Manager.UI\\Pages\\AddAuthor.xaml.cs",
-              "RelativeToolTip": "Manager.UI\\Pages\\AddAuthor.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T15:43:08.96Z"
             },
             {
               "$type": "Document",
@@ -886,8 +890,7 @@
               "RelativeToolTip": "Manager.UI\\Manager.UI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-07T16:04:39.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-07T16:04:39.13Z"
             },
             {
               "$type": "Document",
@@ -911,8 +914,7 @@
               "RelativeToolTip": "Manager.Application\\Manager.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-08T17:39:03.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T17:39:03.505Z"
             },
             {
               "$type": "Document",

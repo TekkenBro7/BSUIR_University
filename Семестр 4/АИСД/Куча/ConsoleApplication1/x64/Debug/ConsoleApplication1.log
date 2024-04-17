@@ -1,16 +1,16 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\Tekken\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  C:\Users\Tekken\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(15,19):
+C:\Users\Tekken\Desktop\Куча\ConsoleApplication1\ConsoleApplication1.cpp(14,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  C:\Users\Tekken\Desktop\Куча\ConsoleApplication1\ConsoleApplication1.cpp(14,13):
   контекст создания экземпляра шаблона (сначала самый старый)
-  	C:\Users\Tekken\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,25):
+  	C:\Users\Tekken\Desktop\Куча\ConsoleApplication1\ConsoleApplication1.cpp(126,22):
   	выполняется компиляция ссылки на экземпляр класс шаблон функции "BinaryHeap_arr<int>"
-  	C:\Users\Tekken\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,10):
+  	C:\Users\Tekken\Desktop\Куча\ConsoleApplication1\ConsoleApplication1.cpp(11,7):
   	во время компиляции функции-члена класс шаблон "void BinaryHeap_arr<int>::insert(const T &)"
           with
           [
               T=int
           ]
-  		C:\Users\Tekken\Desktop\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(102,13):
+  		C:\Users\Tekken\Desktop\Куча\ConsoleApplication1\ConsoleApplication1.cpp(127,10):
   		см. первую ссылку на "BinaryHeap_arr<int>::insert" в "main"
   
-  ConsoleApplication1.vcxproj -> C:\Users\Tekken\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\Tekken\Desktop\Куча\x64\Debug\ConsoleApplication1.exe
