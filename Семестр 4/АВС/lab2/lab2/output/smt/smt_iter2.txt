@@ -1,0 +1,126 @@
+
+Iterations: 14
+Time elapsed: 681
+
+Iterations: 28
+Time elapsed: 1202
+
+Iterations: 42
+Time elapsed: 1613
+
+Iterations: 56
+Time elapsed: 1953
+
+Iterations: 70
+Time elapsed: 2314
+
+Iterations: 84
+Time elapsed: 2655
+
+Iterations: 98
+Time elapsed: 2986
+
+Iterations: 112
+Time elapsed: 3327
+
+Iterations: 126
+Time elapsed: 3667
+
+Iterations: 140
+Time elapsed: 4018
+
+Iterations: 154
+Time elapsed: 4379
+
+Iterations: 168
+Time elapsed: 4719
+
+Iterations: 182
+Time elapsed: 5059
+
+Iterations: 196
+Time elapsed: 5390
+
+Iterations: 210
+Time elapsed: 5721
+
+Iterations: 224
+Time elapsed: 6081
+
+Iterations: 238
+Time elapsed: 6422
+
+Iterations: 252
+Time elapsed: 6762
+
+Iterations: 266
+Time elapsed: 7092
+
+Iterations: 280
+Time elapsed: 7433
+
+Iterations: 294
+Time elapsed: 7713
+
+Iterations: 308
+Time elapsed: 7993
+
+Iterations: 322
+Time elapsed: 8274
+
+Iterations: 336
+Time elapsed: 8625
+
+Iterations: 350
+Time elapsed: 8896
+
+Iterations: 364
+Time elapsed: 9187
+
+Iterations: 378
+Time elapsed: 9467
+
+Iterations: 392
+Time elapsed: 9747
+
+Iterations: 406
+Time elapsed: 10027
+
+Iterations: 420
+Time elapsed: 10308
+
+Iterations: 434
+Time elapsed: 10579
+
+Iterations: 448
+Time elapsed: 10860
+
+Iterations: 462
+Time elapsed: 11141
+
+Iterations: 476
+Time elapsed: 11422
+
+Iterations: 490
+Time elapsed: 11702
+
+Iterations: 504
+Time elapsed: 11992
+
+Iterations: 518
+Time elapsed: 12273
+
+Iterations: 532
+Time elapsed: 12554
+
+Iterations: 546
+Time elapsed: 12834
+
+Iterations: 560
+Time elapsed: 13104
+
+Iterations: 574
+Time elapsed: 13385
+
+Iterations: 588
+Time elapsed: 13655

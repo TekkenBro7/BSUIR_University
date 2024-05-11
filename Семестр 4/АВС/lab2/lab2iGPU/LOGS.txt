@@ -1,0 +1,4016 @@
+Value: 0.8
+Y(0.8) = 4.32397640482
+S(0.8) = 4.32397640481
+Iterations: 13
+Time for iteration: 307
+Time elapsed: 307
+Total iterations: 13
+======================================
+Value: 0.8001
+Y(0.8001) = 4.32527534857
+S(0.8001) = 4.32527534857
+Iterations: 13
+Time for iteration: 115
+Time elapsed: 422
+Total iterations: 26
+======================================
+Value: 0.8002
+Y(0.8002) = 4.32657475973
+S(0.8002) = 4.32657475973
+Iterations: 13
+Time for iteration: 114
+Time elapsed: 536
+Total iterations: 39
+======================================
+Value: 0.8003
+Y(0.8003) = 4.32787463848
+S(0.8003) = 4.32787463848
+Iterations: 13
+Time for iteration: 80
+Time elapsed: 616
+Total iterations: 52
+======================================
+Value: 0.8004
+Y(0.8004) = 4.329174985
+S(0.8004) = 4.329174985
+Iterations: 13
+Time for iteration: 77
+Time elapsed: 693
+Total iterations: 65
+======================================
+Value: 0.8005
+Y(0.8005) = 4.33047579947
+S(0.8005) = 4.33047579947
+Iterations: 13
+Time for iteration: 73
+Time elapsed: 766
+Total iterations: 78
+======================================
+Value: 0.8006
+Y(0.8006) = 4.33177708207
+S(0.8006) = 4.33177708207
+Iterations: 13
+Time for iteration: 79
+Time elapsed: 845
+Total iterations: 91
+======================================
+Value: 0.8007
+Y(0.8007) = 4.33307883297
+S(0.8007) = 4.33307883297
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 912
+Total iterations: 104
+======================================
+Value: 0.8008
+Y(0.8008) = 4.33438105235
+S(0.8008) = 4.33438105235
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 978
+Total iterations: 117
+======================================
+Value: 0.8009
+Y(0.8009) = 4.3356837404
+S(0.8009) = 4.3356837404
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 1045
+Total iterations: 130
+======================================
+Value: 0.801
+Y(0.801) = 4.33698689729
+S(0.801) = 4.33698689729
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1103
+Total iterations: 143
+======================================
+Value: 0.8011
+Y(0.8011) = 4.33829052321
+S(0.8011) = 4.33829052321
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1161
+Total iterations: 156
+======================================
+Value: 0.8012
+Y(0.8012) = 4.33959461833
+S(0.8012) = 4.33959461832
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 1229
+Total iterations: 169
+======================================
+Value: 0.8013
+Y(0.8013) = 4.34089918282
+S(0.8013) = 4.34089918282
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 1295
+Total iterations: 182
+======================================
+Value: 0.8014
+Y(0.8014) = 4.34220421688
+S(0.8014) = 4.34220421688
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 1356
+Total iterations: 195
+======================================
+Value: 0.8015
+Y(0.8015) = 4.34350972068
+S(0.8015) = 4.34350972068
+Iterations: 13
+Time for iteration: 71
+Time elapsed: 1427
+Total iterations: 208
+======================================
+Value: 0.8016
+Y(0.8016) = 4.3448156944
+S(0.8016) = 4.3448156944
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 1493
+Total iterations: 221
+======================================
+Value: 0.8017
+Y(0.8017) = 4.34612213822
+S(0.8017) = 4.34612213822
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1551
+Total iterations: 234
+======================================
+Value: 0.8018
+Y(0.8018) = 4.34742905232
+S(0.8018) = 4.34742905232
+Iterations: 13
+Time for iteration: 69
+Time elapsed: 1620
+Total iterations: 247
+======================================
+Value: 0.8019
+Y(0.8019) = 4.34873643689
+S(0.8019) = 4.34873643688
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1678
+Total iterations: 260
+======================================
+Value: 0.802
+Y(0.802) = 4.35004429209
+S(0.802) = 4.35004429209
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 1746
+Total iterations: 273
+======================================
+Value: 0.8021
+Y(0.8021) = 4.35135261811
+S(0.8021) = 4.35135261811
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1804
+Total iterations: 286
+======================================
+Value: 0.8022
+Y(0.8022) = 4.35266141513
+S(0.8022) = 4.35266141513
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 1862
+Total iterations: 299
+======================================
+Value: 0.8023
+Y(0.8023) = 4.35397068333
+S(0.8023) = 4.35397068333
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 1921
+Total iterations: 312
+======================================
+Value: 0.8024
+Y(0.8024) = 4.3552804229
+S(0.8024) = 4.3552804229
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 1980
+Total iterations: 325
+======================================
+Value: 0.8025
+Y(0.8025) = 4.35659063401
+S(0.8025) = 4.356590634
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 2038
+Total iterations: 338
+======================================
+Value: 0.8026
+Y(0.8026) = 4.35790131683
+S(0.8026) = 4.35790131683
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2097
+Total iterations: 351
+======================================
+Value: 0.8027
+Y(0.8027) = 4.35921247156
+S(0.8027) = 4.35921247156
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2156
+Total iterations: 364
+======================================
+Value: 0.8028
+Y(0.8028) = 4.36052409838
+S(0.8028) = 4.36052409838
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2215
+Total iterations: 377
+======================================
+Value: 0.8029
+Y(0.8029) = 4.36183619746
+S(0.8029) = 4.36183619746
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2274
+Total iterations: 390
+======================================
+Value: 0.803
+Y(0.803) = 4.36314876898
+S(0.803) = 4.36314876898
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2333
+Total iterations: 403
+======================================
+Value: 0.8031
+Y(0.8031) = 4.36446181313
+S(0.8031) = 4.36446181313
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2392
+Total iterations: 416
+======================================
+Value: 0.8032
+Y(0.8032) = 4.36577533009
+S(0.8032) = 4.36577533009
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 2450
+Total iterations: 429
+======================================
+Value: 0.8033
+Y(0.8033) = 4.36708932003
+S(0.8033) = 4.36708932003
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 2508
+Total iterations: 442
+======================================
+Value: 0.8034
+Y(0.8034) = 4.36840378315
+S(0.8034) = 4.36840378314
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2567
+Total iterations: 455
+======================================
+Value: 0.8035
+Y(0.8035) = 4.36971871961
+S(0.8035) = 4.36971871961
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2626
+Total iterations: 468
+======================================
+Value: 0.8036
+Y(0.8036) = 4.3710341296
+S(0.8036) = 4.3710341296
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 2684
+Total iterations: 481
+======================================
+Value: 0.8037
+Y(0.8037) = 4.37235001331
+S(0.8037) = 4.37235001331
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2743
+Total iterations: 494
+======================================
+Value: 0.8038
+Y(0.8038) = 4.37366637091
+S(0.8038) = 4.37366637091
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2802
+Total iterations: 507
+======================================
+Value: 0.8039
+Y(0.8039) = 4.37498320259
+S(0.8039) = 4.37498320259
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2861
+Total iterations: 520
+======================================
+Value: 0.804
+Y(0.804) = 4.37630050853
+S(0.804) = 4.37630050853
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 2917
+Total iterations: 533
+======================================
+Value: 0.8041
+Y(0.8041) = 4.3776182889
+S(0.8041) = 4.3776182889
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 2976
+Total iterations: 546
+======================================
+Value: 0.8042
+Y(0.8042) = 4.37893654389
+S(0.8042) = 4.37893654389
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 3043
+Total iterations: 559
+======================================
+Value: 0.8043
+Y(0.8043) = 4.38025527369
+S(0.8043) = 4.38025527369
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 3103
+Total iterations: 572
+======================================
+Value: 0.8044
+Y(0.8044) = 4.38157447847
+S(0.8044) = 4.38157447847
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 3159
+Total iterations: 585
+======================================
+Value: 0.8045
+Y(0.8045) = 4.38289415842
+S(0.8045) = 4.38289415842
+Iterations: 13
+Time for iteration: 65
+Time elapsed: 3224
+Total iterations: 598
+======================================
+Value: 0.8046
+Y(0.8046) = 4.38421431372
+S(0.8046) = 4.38421431372
+Iterations: 13
+Time for iteration: 64
+Time elapsed: 3288
+Total iterations: 611
+======================================
+Value: 0.8047
+Y(0.8047) = 4.38553494454
+S(0.8047) = 4.38553494454
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 3356
+Total iterations: 624
+======================================
+Value: 0.8048
+Y(0.8048) = 4.38685605108
+S(0.8048) = 4.38685605108
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 3417
+Total iterations: 637
+======================================
+Value: 0.8049
+Y(0.8049) = 4.38817763352
+S(0.8049) = 4.38817763352
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 3484
+Total iterations: 650
+======================================
+Value: 0.805
+Y(0.805) = 4.38949969203
+S(0.805) = 4.38949969203
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 3545
+Total iterations: 663
+======================================
+Value: 0.8051
+Y(0.8051) = 4.3908222268
+S(0.8051) = 4.3908222268
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 3606
+Total iterations: 676
+======================================
+Value: 0.8052
+Y(0.8052) = 4.39214523802
+S(0.8052) = 4.39214523802
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 3667
+Total iterations: 689
+======================================
+Value: 0.8053
+Y(0.8053) = 4.39346872585
+S(0.8053) = 4.39346872585
+Iterations: 13
+Time for iteration: 73
+Time elapsed: 3740
+Total iterations: 702
+======================================
+Value: 0.8054
+Y(0.8054) = 4.3947926905
+S(0.8054) = 4.3947926905
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 3801
+Total iterations: 715
+======================================
+Value: 0.8055
+Y(0.8055) = 4.39611713214
+S(0.8055) = 4.39611713214
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 3867
+Total iterations: 728
+======================================
+Value: 0.8056
+Y(0.8056) = 4.39744205095
+S(0.8056) = 4.39744205095
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 3925
+Total iterations: 741
+======================================
+Value: 0.8057
+Y(0.8057) = 4.39876744711
+S(0.8057) = 4.39876744711
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 3984
+Total iterations: 754
+======================================
+Value: 0.8058
+Y(0.8058) = 4.40009332082
+S(0.8058) = 4.40009332082
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4043
+Total iterations: 767
+======================================
+Value: 0.8059
+Y(0.8059) = 4.40141967224
+S(0.8059) = 4.40141967224
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4102
+Total iterations: 780
+======================================
+Value: 0.806
+Y(0.806) = 4.40274650157
+S(0.806) = 4.40274650157
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4161
+Total iterations: 793
+======================================
+Value: 0.8061
+Y(0.8061) = 4.40407380899
+S(0.8061) = 4.40407380899
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4220
+Total iterations: 806
+======================================
+Value: 0.8062
+Y(0.8062) = 4.40540159468
+S(0.8062) = 4.40540159468
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4279
+Total iterations: 819
+======================================
+Value: 0.8063
+Y(0.8063) = 4.40672985883
+S(0.8063) = 4.40672985883
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 4337
+Total iterations: 832
+======================================
+Value: 0.8064
+Y(0.8064) = 4.40805860161
+S(0.8064) = 4.40805860161
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 4397
+Total iterations: 845
+======================================
+Value: 0.8065
+Y(0.8065) = 4.40938782322
+S(0.8065) = 4.40938782322
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4456
+Total iterations: 858
+======================================
+Value: 0.8066
+Y(0.8066) = 4.41071752383
+S(0.8066) = 4.41071752383
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4515
+Total iterations: 871
+======================================
+Value: 0.8067
+Y(0.8067) = 4.41204770363
+S(0.8067) = 4.41204770363
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4574
+Total iterations: 884
+======================================
+Value: 0.8068
+Y(0.8068) = 4.4133783628
+S(0.8068) = 4.4133783628
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4633
+Total iterations: 897
+======================================
+Value: 0.8069
+Y(0.8069) = 4.41470950153
+S(0.8069) = 4.41470950153
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4692
+Total iterations: 910
+======================================
+Value: 0.807
+Y(0.807) = 4.41604112
+S(0.807) = 4.41604112
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 4750
+Total iterations: 923
+======================================
+Value: 0.8071
+Y(0.8071) = 4.4173732184
+S(0.8071) = 4.41737321839
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4809
+Total iterations: 936
+======================================
+Value: 0.8072
+Y(0.8072) = 4.4187057969
+S(0.8072) = 4.4187057969
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 4867
+Total iterations: 949
+======================================
+Value: 0.8073
+Y(0.8073) = 4.42003885569
+S(0.8073) = 4.42003885569
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4926
+Total iterations: 962
+======================================
+Value: 0.8074
+Y(0.8074) = 4.42137239497
+S(0.8074) = 4.42137239496
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 4985
+Total iterations: 975
+======================================
+Value: 0.8075
+Y(0.8075) = 4.4227064149
+S(0.8075) = 4.4227064149
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5043
+Total iterations: 988
+======================================
+Value: 0.8076
+Y(0.8076) = 4.42404091568
+S(0.8076) = 4.42404091568
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5101
+Total iterations: 1001
+======================================
+Value: 0.8077
+Y(0.8077) = 4.42537589748
+S(0.8077) = 4.42537589748
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5160
+Total iterations: 1014
+======================================
+Value: 0.8078
+Y(0.8078) = 4.42671136051
+S(0.8078) = 4.42671136051
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5219
+Total iterations: 1027
+======================================
+Value: 0.8079
+Y(0.8079) = 4.42804730493
+S(0.8079) = 4.42804730493
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5277
+Total iterations: 1040
+======================================
+Value: 0.808
+Y(0.808) = 4.42938373093
+S(0.808) = 4.42938373093
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5336
+Total iterations: 1053
+======================================
+Value: 0.8081
+Y(0.8081) = 4.43072063871
+S(0.8081) = 4.43072063871
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5394
+Total iterations: 1066
+======================================
+Value: 0.8082
+Y(0.8082) = 4.43205802844
+S(0.8082) = 4.43205802843
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5453
+Total iterations: 1079
+======================================
+Value: 0.8083
+Y(0.8083) = 4.4333959003
+S(0.8083) = 4.4333959003
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5512
+Total iterations: 1092
+======================================
+Value: 0.8084
+Y(0.8084) = 4.43473425449
+S(0.8084) = 4.43473425449
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5571
+Total iterations: 1105
+======================================
+Value: 0.8085
+Y(0.8085) = 4.43607309119
+S(0.8085) = 4.43607309118
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5630
+Total iterations: 1118
+======================================
+Value: 0.8086
+Y(0.8086) = 4.43741241058
+S(0.8086) = 4.43741241057
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5688
+Total iterations: 1131
+======================================
+Value: 0.8087
+Y(0.8087) = 4.43875221284
+S(0.8087) = 4.43875221284
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 5747
+Total iterations: 1144
+======================================
+Value: 0.8088
+Y(0.8088) = 4.44009249818
+S(0.8088) = 4.44009249817
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 5805
+Total iterations: 1157
+======================================
+Value: 0.8089
+Y(0.8089) = 4.44143326676
+S(0.8089) = 4.44143326676
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 5872
+Total iterations: 1170
+======================================
+Value: 0.809
+Y(0.809) = 4.44277451877
+S(0.809) = 4.44277451877
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 5934
+Total iterations: 1183
+======================================
+Value: 0.8091
+Y(0.8091) = 4.44411625441
+S(0.8091) = 4.44411625441
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 5995
+Total iterations: 1196
+======================================
+Value: 0.8092
+Y(0.8092) = 4.44545847385
+S(0.8092) = 4.44545847385
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 6063
+Total iterations: 1209
+======================================
+Value: 0.8093
+Y(0.8093) = 4.44680117728
+S(0.8093) = 4.44680117728
+Iterations: 13
+Time for iteration: 69
+Time elapsed: 6132
+Total iterations: 1222
+======================================
+Value: 0.8094
+Y(0.8094) = 4.44814436489
+S(0.8094) = 4.44814436489
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 6190
+Total iterations: 1235
+======================================
+Value: 0.8095
+Y(0.8095) = 4.44948803687
+S(0.8095) = 4.44948803687
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 6246
+Total iterations: 1248
+======================================
+Value: 0.8096
+Y(0.8096) = 4.45083219339
+S(0.8096) = 4.45083219339
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 6308
+Total iterations: 1261
+======================================
+Value: 0.8097
+Y(0.8097) = 4.45217683465
+S(0.8097) = 4.45217683465
+Iterations: 13
+Time for iteration: 70
+Time elapsed: 6378
+Total iterations: 1274
+======================================
+Value: 0.8098
+Y(0.8098) = 4.45352196083
+S(0.8098) = 4.45352196083
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 6440
+Total iterations: 1287
+======================================
+Value: 0.8099
+Y(0.8099) = 4.45486757211
+S(0.8099) = 4.45486757211
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 6498
+Total iterations: 1300
+======================================
+Value: 0.81
+Y(0.81) = 4.45621366869
+S(0.81) = 4.45621366869
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6557
+Total iterations: 1313
+======================================
+Value: 0.8101
+Y(0.8101) = 4.45756025075
+S(0.8101) = 4.45756025075
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6616
+Total iterations: 1326
+======================================
+Value: 0.8102
+Y(0.8102) = 4.45890731848
+S(0.8102) = 4.45890731848
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 6674
+Total iterations: 1339
+======================================
+Value: 0.8103
+Y(0.8103) = 4.46025487205
+S(0.8103) = 4.46025487205
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6733
+Total iterations: 1352
+======================================
+Value: 0.8104
+Y(0.8104) = 4.46160291167
+S(0.8104) = 4.46160291167
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6792
+Total iterations: 1365
+======================================
+Value: 0.8105
+Y(0.8105) = 4.46295143752
+S(0.8105) = 4.46295143751
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6851
+Total iterations: 1378
+======================================
+Value: 0.8106
+Y(0.8106) = 4.46430044977
+S(0.8106) = 4.46430044977
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6910
+Total iterations: 1391
+======================================
+Value: 0.8107
+Y(0.8107) = 4.46564994863
+S(0.8107) = 4.46564994862
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 6969
+Total iterations: 1404
+======================================
+Value: 0.8108
+Y(0.8108) = 4.46699993427
+S(0.8108) = 4.46699993427
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 7028
+Total iterations: 1417
+======================================
+Value: 0.8109
+Y(0.8109) = 4.46835040688
+S(0.8109) = 4.46835040688
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 7088
+Total iterations: 1430
+======================================
+Value: 0.811
+Y(0.811) = 4.46970136666
+S(0.811) = 4.46970136665
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7146
+Total iterations: 1443
+======================================
+Value: 0.8111
+Y(0.8111) = 4.47105281378
+S(0.8111) = 4.47105281378
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7204
+Total iterations: 1456
+======================================
+Value: 0.8112
+Y(0.8112) = 4.47240474843
+S(0.8112) = 4.47240474843
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7262
+Total iterations: 1469
+======================================
+Value: 0.8113
+Y(0.8113) = 4.47375717081
+S(0.8113) = 4.47375717081
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 7321
+Total iterations: 1482
+======================================
+Value: 0.8114
+Y(0.8114) = 4.4751100811
+S(0.8114) = 4.4751100811
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7379
+Total iterations: 1495
+======================================
+Value: 0.8115
+Y(0.8115) = 4.47646347948
+S(0.8115) = 4.47646347948
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7437
+Total iterations: 1508
+======================================
+Value: 0.8116
+Y(0.8116) = 4.47781736615
+S(0.8116) = 4.47781736615
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 7496
+Total iterations: 1521
+======================================
+Value: 0.8117
+Y(0.8117) = 4.47917174129
+S(0.8117) = 4.47917174129
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7554
+Total iterations: 1534
+======================================
+Value: 0.8118
+Y(0.8118) = 4.48052660509
+S(0.8118) = 4.48052660509
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7612
+Total iterations: 1547
+======================================
+Value: 0.8119
+Y(0.8119) = 4.48188195773
+S(0.8119) = 4.48188195773
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7670
+Total iterations: 1560
+======================================
+Value: 0.812
+Y(0.812) = 4.48323779941
+S(0.812) = 4.48323779941
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7728
+Total iterations: 1573
+======================================
+Value: 0.8121
+Y(0.8121) = 4.48459413032
+S(0.8121) = 4.48459413032
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7786
+Total iterations: 1586
+======================================
+Value: 0.8122
+Y(0.8122) = 4.48595095063
+S(0.8122) = 4.48595095063
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 7844
+Total iterations: 1599
+======================================
+Value: 0.8123
+Y(0.8123) = 4.48730826054
+S(0.8123) = 4.48730826054
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 7903
+Total iterations: 1612
+======================================
+Value: 0.8124
+Y(0.8124) = 4.48866606024
+S(0.8124) = 4.48866606024
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 7962
+Total iterations: 1625
+======================================
+Value: 0.8125
+Y(0.8125) = 4.49002434991
+S(0.8125) = 4.49002434991
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 8021
+Total iterations: 1638
+======================================
+Value: 0.8126
+Y(0.8126) = 4.49138312975
+S(0.8126) = 4.49138312975
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 8080
+Total iterations: 1651
+======================================
+Value: 0.8127
+Y(0.8127) = 4.49274239994
+S(0.8127) = 4.49274239994
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 8139
+Total iterations: 1664
+======================================
+Value: 0.8128
+Y(0.8128) = 4.49410216067
+S(0.8128) = 4.49410216067
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 8199
+Total iterations: 1677
+======================================
+Value: 0.8129
+Y(0.8129) = 4.49546241213
+S(0.8129) = 4.49546241213
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 8257
+Total iterations: 1690
+======================================
+Value: 0.813
+Y(0.813) = 4.4968231545
+S(0.813) = 4.4968231545
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 8315
+Total iterations: 1703
+======================================
+Value: 0.8131
+Y(0.8131) = 4.49818438799
+S(0.8131) = 4.49818438798
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 8373
+Total iterations: 1716
+======================================
+Value: 0.8132
+Y(0.8132) = 4.49954611276
+S(0.8132) = 4.49954611276
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 8432
+Total iterations: 1729
+======================================
+Value: 0.8133
+Y(0.8133) = 4.50090832902
+S(0.8133) = 4.50090832902
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 8491
+Total iterations: 1742
+======================================
+Value: 0.8134
+Y(0.8134) = 4.50227103695
+S(0.8134) = 4.50227103695
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 8552
+Total iterations: 1755
+======================================
+Value: 0.8135
+Y(0.8135) = 4.50363423675
+S(0.8135) = 4.50363423675
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 8608
+Total iterations: 1768
+======================================
+Value: 0.8136
+Y(0.8136) = 4.50499792859
+S(0.8136) = 4.50499792859
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 8670
+Total iterations: 1781
+======================================
+Value: 0.8137
+Y(0.8137) = 4.50636211268
+S(0.8137) = 4.50636211268
+Iterations: 13
+Time for iteration: 71
+Time elapsed: 8741
+Total iterations: 1794
+======================================
+Value: 0.8138
+Y(0.8138) = 4.50772678919
+S(0.8138) = 4.50772678919
+Iterations: 13
+Time for iteration: 57
+Time elapsed: 8798
+Total iterations: 1807
+======================================
+Value: 0.8139
+Y(0.8139) = 4.50909195832
+S(0.8139) = 4.50909195832
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 8854
+Total iterations: 1820
+======================================
+Value: 0.814
+Y(0.814) = 4.51045762026
+S(0.814) = 4.51045762026
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 8912
+Total iterations: 1833
+======================================
+Value: 0.8141
+Y(0.8141) = 4.5118237752
+S(0.8141) = 4.5118237752
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 8970
+Total iterations: 1846
+======================================
+Value: 0.8142
+Y(0.8142) = 4.51319042333
+S(0.8142) = 4.51319042332
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9029
+Total iterations: 1859
+======================================
+Value: 0.8143
+Y(0.8143) = 4.51455756483
+S(0.8143) = 4.51455756483
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 9087
+Total iterations: 1872
+======================================
+Value: 0.8144
+Y(0.8144) = 4.51592519989
+S(0.8144) = 4.51592519989
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9146
+Total iterations: 1885
+======================================
+Value: 0.8145
+Y(0.8145) = 4.51729332872
+S(0.8145) = 4.51729332872
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9205
+Total iterations: 1898
+======================================
+Value: 0.8146
+Y(0.8146) = 4.51866195149
+S(0.8146) = 4.51866195149
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9264
+Total iterations: 1911
+======================================
+Value: 0.8147
+Y(0.8147) = 4.52003106839
+S(0.8147) = 4.52003106839
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9323
+Total iterations: 1924
+======================================
+Value: 0.8148
+Y(0.8148) = 4.52140067962
+S(0.8148) = 4.52140067962
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9382
+Total iterations: 1937
+======================================
+Value: 0.8149
+Y(0.8149) = 4.52277078537
+S(0.8149) = 4.52277078537
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9441
+Total iterations: 1950
+======================================
+Value: 0.815
+Y(0.815) = 4.52414138583
+S(0.815) = 4.52414138582
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 9499
+Total iterations: 1963
+======================================
+Value: 0.8151
+Y(0.8151) = 4.52551248118
+S(0.8151) = 4.52551248118
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 9557
+Total iterations: 1976
+======================================
+Value: 0.8152
+Y(0.8152) = 4.52688407161
+S(0.8152) = 4.52688407161
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9616
+Total iterations: 1989
+======================================
+Value: 0.8153
+Y(0.8153) = 4.52825615733
+S(0.8153) = 4.52825615733
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9675
+Total iterations: 2002
+======================================
+Value: 0.8154
+Y(0.8154) = 4.52962873851
+S(0.8154) = 4.52962873851
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 9733
+Total iterations: 2015
+======================================
+Value: 0.8155
+Y(0.8155) = 4.53100181535
+S(0.8155) = 4.53100181535
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9792
+Total iterations: 2028
+======================================
+Value: 0.8156
+Y(0.8156) = 4.53237538805
+S(0.8156) = 4.53237538804
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9851
+Total iterations: 2041
+======================================
+Value: 0.8157
+Y(0.8157) = 4.53374945678
+S(0.8157) = 4.53374945678
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9910
+Total iterations: 2054
+======================================
+Value: 0.8158
+Y(0.8158) = 4.53512402174
+S(0.8158) = 4.53512402174
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 9969
+Total iterations: 2067
+======================================
+Value: 0.8159
+Y(0.8159) = 4.53649908312
+S(0.8159) = 4.53649908312
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10027
+Total iterations: 2080
+======================================
+Value: 0.816
+Y(0.816) = 4.53787464112
+S(0.816) = 4.53787464112
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10086
+Total iterations: 2093
+======================================
+Value: 0.8161
+Y(0.8161) = 4.53925069592
+S(0.8161) = 4.53925069592
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10144
+Total iterations: 2106
+======================================
+Value: 0.8162
+Y(0.8162) = 4.54062724772
+S(0.8162) = 4.54062724772
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10202
+Total iterations: 2119
+======================================
+Value: 0.8163
+Y(0.8163) = 4.5420042967
+S(0.8163) = 4.5420042967
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10260
+Total iterations: 2132
+======================================
+Value: 0.8164
+Y(0.8164) = 4.54338184307
+S(0.8164) = 4.54338184306
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10319
+Total iterations: 2145
+======================================
+Value: 0.8165
+Y(0.8165) = 4.544759887
+S(0.8165) = 4.544759887
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10377
+Total iterations: 2158
+======================================
+Value: 0.8166
+Y(0.8166) = 4.54613842869
+S(0.8166) = 4.54613842869
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10436
+Total iterations: 2171
+======================================
+Value: 0.8167
+Y(0.8167) = 4.54751746833
+S(0.8167) = 4.54751746833
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10494
+Total iterations: 2184
+======================================
+Value: 0.8168
+Y(0.8168) = 4.54889700612
+S(0.8168) = 4.54889700612
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10552
+Total iterations: 2197
+======================================
+Value: 0.8169
+Y(0.8169) = 4.55027704224
+S(0.8169) = 4.55027704224
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10611
+Total iterations: 2210
+======================================
+Value: 0.817
+Y(0.817) = 4.55165757689
+S(0.817) = 4.55165757689
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10670
+Total iterations: 2223
+======================================
+Value: 0.8171
+Y(0.8171) = 4.55303861027
+S(0.8171) = 4.55303861026
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10729
+Total iterations: 2236
+======================================
+Value: 0.8172
+Y(0.8172) = 4.55442014255
+S(0.8172) = 4.55442014255
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10787
+Total iterations: 2249
+======================================
+Value: 0.8173
+Y(0.8173) = 4.55580217393
+S(0.8173) = 4.55580217393
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10846
+Total iterations: 2262
+======================================
+Value: 0.8174
+Y(0.8174) = 4.55718470462
+S(0.8174) = 4.55718470461
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 10905
+Total iterations: 2275
+======================================
+Value: 0.8175
+Y(0.8175) = 4.55856773479
+S(0.8175) = 4.55856773478
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 10963
+Total iterations: 2288
+======================================
+Value: 0.8176
+Y(0.8176) = 4.55995126464
+S(0.8176) = 4.55995126463
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 11021
+Total iterations: 2301
+======================================
+Value: 0.8177
+Y(0.8177) = 4.56133529436
+S(0.8177) = 4.56133529436
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11080
+Total iterations: 2314
+======================================
+Value: 0.8178
+Y(0.8178) = 4.56271982415
+S(0.8178) = 4.56271982415
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11139
+Total iterations: 2327
+======================================
+Value: 0.8179
+Y(0.8179) = 4.56410485419
+S(0.8179) = 4.56410485419
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 11201
+Total iterations: 2340
+======================================
+Value: 0.818
+Y(0.818) = 4.56549038469
+S(0.818) = 4.56549038469
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 11256
+Total iterations: 2353
+======================================
+Value: 0.8181
+Y(0.8181) = 4.56687641583
+S(0.8181) = 4.56687641583
+Iterations: 13
+Time for iteration: 53
+Time elapsed: 11309
+Total iterations: 2366
+======================================
+Value: 0.8182
+Y(0.8182) = 4.56826294781
+S(0.8182) = 4.5682629478
+Iterations: 13
+Time for iteration: 63
+Time elapsed: 11372
+Total iterations: 2379
+======================================
+Value: 0.8183
+Y(0.8183) = 4.56964998081
+S(0.8183) = 4.56964998081
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 11433
+Total iterations: 2392
+======================================
+Value: 0.8184
+Y(0.8184) = 4.57103751504
+S(0.8184) = 4.57103751503
+Iterations: 13
+Time for iteration: 64
+Time elapsed: 11497
+Total iterations: 2405
+======================================
+Value: 0.8185
+Y(0.8185) = 4.57242555068
+S(0.8185) = 4.57242555068
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 11555
+Total iterations: 2418
+======================================
+Value: 0.8186
+Y(0.8186) = 4.57381408793
+S(0.8186) = 4.57381408793
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11614
+Total iterations: 2431
+======================================
+Value: 0.8187
+Y(0.8187) = 4.57520312698
+S(0.8187) = 4.57520312698
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11673
+Total iterations: 2444
+======================================
+Value: 0.8188
+Y(0.8188) = 4.57659266802
+S(0.8188) = 4.57659266802
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11732
+Total iterations: 2457
+======================================
+Value: 0.8189
+Y(0.8189) = 4.57798271125
+S(0.8189) = 4.57798271125
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11791
+Total iterations: 2470
+======================================
+Value: 0.819
+Y(0.819) = 4.57937325687
+S(0.819) = 4.57937325687
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 11857
+Total iterations: 2483
+======================================
+Value: 0.8191
+Y(0.8191) = 4.58076430506
+S(0.8191) = 4.58076430506
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 11918
+Total iterations: 2496
+======================================
+Value: 0.8192
+Y(0.8192) = 4.58215585602
+S(0.8192) = 4.58215585602
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 11977
+Total iterations: 2509
+======================================
+Value: 0.8193
+Y(0.8193) = 4.58354790994
+S(0.8193) = 4.58354790994
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12035
+Total iterations: 2522
+======================================
+Value: 0.8194
+Y(0.8194) = 4.58494046701
+S(0.8194) = 4.58494046701
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12093
+Total iterations: 2535
+======================================
+Value: 0.8195
+Y(0.8195) = 4.58633352744
+S(0.8195) = 4.58633352744
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 12148
+Total iterations: 2548
+======================================
+Value: 0.8196
+Y(0.8196) = 4.58772709141
+S(0.8196) = 4.58772709141
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12207
+Total iterations: 2561
+======================================
+Value: 0.8197
+Y(0.8197) = 4.58912115912
+S(0.8197) = 4.58912115912
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12266
+Total iterations: 2574
+======================================
+Value: 0.8198
+Y(0.8198) = 4.59051573076
+S(0.8198) = 4.59051573076
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12325
+Total iterations: 2587
+======================================
+Value: 0.8199
+Y(0.8199) = 4.59191080652
+S(0.8199) = 4.59191080652
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12384
+Total iterations: 2600
+======================================
+Value: 0.82
+Y(0.82) = 4.59330638661
+S(0.82) = 4.59330638661
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12443
+Total iterations: 2613
+======================================
+Value: 0.8201
+Y(0.8201) = 4.59470247121
+S(0.8201) = 4.59470247121
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12501
+Total iterations: 2626
+======================================
+Value: 0.8202
+Y(0.8202) = 4.59609906052
+S(0.8202) = 4.59609906052
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12559
+Total iterations: 2639
+======================================
+Value: 0.8203
+Y(0.8203) = 4.59749615474
+S(0.8203) = 4.59749615474
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12618
+Total iterations: 2652
+======================================
+Value: 0.8204
+Y(0.8204) = 4.59889375405
+S(0.8204) = 4.59889375405
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12676
+Total iterations: 2665
+======================================
+Value: 0.8205
+Y(0.8205) = 4.60029185866
+S(0.8205) = 4.60029185865
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12735
+Total iterations: 2678
+======================================
+Value: 0.8206
+Y(0.8206) = 4.60169046875
+S(0.8206) = 4.60169046875
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 12793
+Total iterations: 2691
+======================================
+Value: 0.8207
+Y(0.8207) = 4.60308958453
+S(0.8207) = 4.60308958453
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12852
+Total iterations: 2704
+======================================
+Value: 0.8208
+Y(0.8208) = 4.60448920618
+S(0.8208) = 4.60448920618
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 12907
+Total iterations: 2717
+======================================
+Value: 0.8209
+Y(0.8209) = 4.60588933391
+S(0.8209) = 4.60588933391
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 12966
+Total iterations: 2730
+======================================
+Value: 0.821
+Y(0.821) = 4.60728996791
+S(0.821) = 4.6072899679
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13025
+Total iterations: 2743
+======================================
+Value: 0.8211
+Y(0.8211) = 4.60869110836
+S(0.8211) = 4.60869110836
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 13083
+Total iterations: 2756
+======================================
+Value: 0.8212
+Y(0.8212) = 4.61009275548
+S(0.8212) = 4.61009275548
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13142
+Total iterations: 2769
+======================================
+Value: 0.8213
+Y(0.8213) = 4.61149490945
+S(0.8213) = 4.61149490945
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 13200
+Total iterations: 2782
+======================================
+Value: 0.8214
+Y(0.8214) = 4.61289757047
+S(0.8214) = 4.61289757047
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13259
+Total iterations: 2795
+======================================
+Value: 0.8215
+Y(0.8215) = 4.61430073874
+S(0.8215) = 4.61430073874
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 13317
+Total iterations: 2808
+======================================
+Value: 0.8216
+Y(0.8216) = 4.61570441444
+S(0.8216) = 4.61570441444
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13376
+Total iterations: 2821
+======================================
+Value: 0.8217
+Y(0.8217) = 4.61710859778
+S(0.8217) = 4.61710859778
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13435
+Total iterations: 2834
+======================================
+Value: 0.8218
+Y(0.8218) = 4.61851328896
+S(0.8218) = 4.61851328895
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13494
+Total iterations: 2847
+======================================
+Value: 0.8219
+Y(0.8219) = 4.61991848816
+S(0.8219) = 4.61991848815
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 13552
+Total iterations: 2860
+======================================
+Value: 0.822
+Y(0.822) = 4.62132419558
+S(0.822) = 4.62132419558
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13611
+Total iterations: 2873
+======================================
+Value: 0.8221
+Y(0.8221) = 4.62273041142
+S(0.8221) = 4.62273041142
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13670
+Total iterations: 2886
+======================================
+Value: 0.8222
+Y(0.8222) = 4.62413713588
+S(0.8222) = 4.62413713588
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13729
+Total iterations: 2899
+======================================
+Value: 0.8223
+Y(0.8223) = 4.62554436915
+S(0.8223) = 4.62554436915
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 13791
+Total iterations: 2912
+======================================
+Value: 0.8224
+Y(0.8224) = 4.62695211143
+S(0.8224) = 4.62695211143
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 13847
+Total iterations: 2925
+======================================
+Value: 0.8225
+Y(0.8225) = 4.62836036291
+S(0.8225) = 4.62836036291
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 13906
+Total iterations: 2938
+======================================
+Value: 0.8226
+Y(0.8226) = 4.6297691238
+S(0.8226) = 4.6297691238
+Iterations: 13
+Time for iteration: 67
+Time elapsed: 13973
+Total iterations: 2951
+======================================
+Value: 0.8227
+Y(0.8227) = 4.63117839428
+S(0.8227) = 4.63117839428
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 14031
+Total iterations: 2964
+======================================
+Value: 0.8228
+Y(0.8228) = 4.63258817456
+S(0.8228) = 4.63258817455
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 14087
+Total iterations: 2977
+======================================
+Value: 0.8229
+Y(0.8229) = 4.63399846482
+S(0.8229) = 4.63399846482
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14146
+Total iterations: 2990
+======================================
+Value: 0.823
+Y(0.823) = 4.63540926528
+S(0.823) = 4.63540926527
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 14201
+Total iterations: 3003
+======================================
+Value: 0.8231
+Y(0.8231) = 4.63682057611
+S(0.8231) = 4.63682057611
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 14259
+Total iterations: 3016
+======================================
+Value: 0.8232
+Y(0.8232) = 4.63823239753
+S(0.8232) = 4.63823239753
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14318
+Total iterations: 3029
+======================================
+Value: 0.8233
+Y(0.8233) = 4.63964472973
+S(0.8233) = 4.63964472973
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 14379
+Total iterations: 3042
+======================================
+Value: 0.8234
+Y(0.8234) = 4.6410575729
+S(0.8234) = 4.6410575729
+Iterations: 13
+Time for iteration: 65
+Time elapsed: 14444
+Total iterations: 3055
+======================================
+Value: 0.8235
+Y(0.8235) = 4.64247092725
+S(0.8235) = 4.64247092725
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14503
+Total iterations: 3068
+======================================
+Value: 0.8236
+Y(0.8236) = 4.64388479296
+S(0.8236) = 4.64388479296
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14562
+Total iterations: 3081
+======================================
+Value: 0.8237
+Y(0.8237) = 4.64529917025
+S(0.8237) = 4.64529917025
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 14617
+Total iterations: 3094
+======================================
+Value: 0.8238
+Y(0.8238) = 4.64671405929
+S(0.8238) = 4.64671405929
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14676
+Total iterations: 3107
+======================================
+Value: 0.8239
+Y(0.8239) = 4.6481294603
+S(0.8239) = 4.6481294603
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 14731
+Total iterations: 3120
+======================================
+Value: 0.824
+Y(0.824) = 4.64954537347
+S(0.824) = 4.64954537347
+Iterations: 13
+Time for iteration: 64
+Time elapsed: 14795
+Total iterations: 3133
+======================================
+Value: 0.8241
+Y(0.8241) = 4.650961799
+S(0.8241) = 4.650961799
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 14855
+Total iterations: 3146
+======================================
+Value: 0.8242
+Y(0.8242) = 4.65237873708
+S(0.8242) = 4.65237873708
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 14914
+Total iterations: 3159
+======================================
+Value: 0.8243
+Y(0.8243) = 4.65379618792
+S(0.8243) = 4.65379618791
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 14972
+Total iterations: 3172
+======================================
+Value: 0.8244
+Y(0.8244) = 4.6552141517
+S(0.8244) = 4.6552141517
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15030
+Total iterations: 3185
+======================================
+Value: 0.8245
+Y(0.8245) = 4.65663262864
+S(0.8245) = 4.65663262863
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 15092
+Total iterations: 3198
+======================================
+Value: 0.8246
+Y(0.8246) = 4.65805161892
+S(0.8246) = 4.65805161892
+Iterations: 13
+Time for iteration: 65
+Time elapsed: 15157
+Total iterations: 3211
+======================================
+Value: 0.8247
+Y(0.8247) = 4.65947112275
+S(0.8247) = 4.65947112274
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15215
+Total iterations: 3224
+======================================
+Value: 0.8248
+Y(0.8248) = 4.66089114032
+S(0.8248) = 4.66089114031
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15273
+Total iterations: 3237
+======================================
+Value: 0.8249
+Y(0.8249) = 4.66231167183
+S(0.8249) = 4.66231167183
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15332
+Total iterations: 3250
+======================================
+Value: 0.825
+Y(0.825) = 4.66373271748
+S(0.825) = 4.66373271748
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15391
+Total iterations: 3263
+======================================
+Value: 0.8251
+Y(0.8251) = 4.66515427747
+S(0.8251) = 4.66515427747
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15450
+Total iterations: 3276
+======================================
+Value: 0.8252
+Y(0.8252) = 4.666576352
+S(0.8252) = 4.666576352
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15508
+Total iterations: 3289
+======================================
+Value: 0.8253
+Y(0.8253) = 4.66799894127
+S(0.8253) = 4.66799894127
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15567
+Total iterations: 3302
+======================================
+Value: 0.8254
+Y(0.8254) = 4.66942204547
+S(0.8254) = 4.66942204547
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15626
+Total iterations: 3315
+======================================
+Value: 0.8255
+Y(0.8255) = 4.67084566481
+S(0.8255) = 4.6708456648
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15684
+Total iterations: 3328
+======================================
+Value: 0.8256
+Y(0.8256) = 4.67226979947
+S(0.8256) = 4.67226979947
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15743
+Total iterations: 3341
+======================================
+Value: 0.8257
+Y(0.8257) = 4.67369444967
+S(0.8257) = 4.67369444967
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15802
+Total iterations: 3354
+======================================
+Value: 0.8258
+Y(0.8258) = 4.6751196156
+S(0.8258) = 4.6751196156
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15860
+Total iterations: 3367
+======================================
+Value: 0.8259
+Y(0.8259) = 4.67654529746
+S(0.8259) = 4.67654529746
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 15919
+Total iterations: 3380
+======================================
+Value: 0.826
+Y(0.826) = 4.67797149545
+S(0.826) = 4.67797149545
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 15977
+Total iterations: 3393
+======================================
+Value: 0.8261
+Y(0.8261) = 4.67939820977
+S(0.8261) = 4.67939820977
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16036
+Total iterations: 3406
+======================================
+Value: 0.8262
+Y(0.8262) = 4.68082544062
+S(0.8262) = 4.68082544062
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16095
+Total iterations: 3419
+======================================
+Value: 0.8263
+Y(0.8263) = 4.6822531882
+S(0.8263) = 4.68225318819
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16154
+Total iterations: 3432
+======================================
+Value: 0.8264
+Y(0.8264) = 4.6836814527
+S(0.8264) = 4.6836814527
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16213
+Total iterations: 3445
+======================================
+Value: 0.8265
+Y(0.8265) = 4.68511023433
+S(0.8265) = 4.68511023433
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 16271
+Total iterations: 3458
+======================================
+Value: 0.8266
+Y(0.8266) = 4.68653953328
+S(0.8266) = 4.68653953328
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 16329
+Total iterations: 3471
+======================================
+Value: 0.8267
+Y(0.8267) = 4.68796934977
+S(0.8267) = 4.68796934977
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 16391
+Total iterations: 3484
+======================================
+Value: 0.8268
+Y(0.8268) = 4.68939968398
+S(0.8268) = 4.68939968398
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 16446
+Total iterations: 3497
+======================================
+Value: 0.8269
+Y(0.8269) = 4.69083053612
+S(0.8269) = 4.69083053611
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 16506
+Total iterations: 3510
+======================================
+Value: 0.827
+Y(0.827) = 4.69226190638
+S(0.827) = 4.69226190638
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 16574
+Total iterations: 3523
+======================================
+Value: 0.8271
+Y(0.8271) = 4.69369379497
+S(0.8271) = 4.69369379497
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16633
+Total iterations: 3536
+======================================
+Value: 0.8272
+Y(0.8272) = 4.69512620209
+S(0.8272) = 4.69512620209
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16692
+Total iterations: 3549
+======================================
+Value: 0.8273
+Y(0.8273) = 4.69655912794
+S(0.8273) = 4.69655912794
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16751
+Total iterations: 3562
+======================================
+Value: 0.8274
+Y(0.8274) = 4.69799257271
+S(0.8274) = 4.69799257271
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 16809
+Total iterations: 3575
+======================================
+Value: 0.8275
+Y(0.8275) = 4.69942653662
+S(0.8275) = 4.69942653662
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 16868
+Total iterations: 3588
+======================================
+Value: 0.8276
+Y(0.8276) = 4.70086101985
+S(0.8276) = 4.70086101985
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 16926
+Total iterations: 3601
+======================================
+Value: 0.8277
+Y(0.8277) = 4.70229602262
+S(0.8277) = 4.70229602261
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 16984
+Total iterations: 3614
+======================================
+Value: 0.8278
+Y(0.8278) = 4.70373154511
+S(0.8278) = 4.70373154511
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 17042
+Total iterations: 3627
+======================================
+Value: 0.8279
+Y(0.8279) = 4.70516758754
+S(0.8279) = 4.70516758754
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 17100
+Total iterations: 3640
+======================================
+Value: 0.828
+Y(0.828) = 4.7066041501
+S(0.828) = 4.7066041501
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 17158
+Total iterations: 3653
+======================================
+Value: 0.8281
+Y(0.8281) = 4.70804123299
+S(0.8281) = 4.70804123299
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17217
+Total iterations: 3666
+======================================
+Value: 0.8282
+Y(0.8282) = 4.70947883642
+S(0.8282) = 4.70947883642
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 17275
+Total iterations: 3679
+======================================
+Value: 0.8283
+Y(0.8283) = 4.71091696059
+S(0.8283) = 4.71091696059
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 17333
+Total iterations: 3692
+======================================
+Value: 0.8284
+Y(0.8284) = 4.71235560569
+S(0.8284) = 4.71235560569
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17392
+Total iterations: 3705
+======================================
+Value: 0.8285
+Y(0.8285) = 4.71379477194
+S(0.8285) = 4.71379477194
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 17452
+Total iterations: 3718
+======================================
+Value: 0.8286
+Y(0.8286) = 4.71523445952
+S(0.8286) = 4.71523445952
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 17506
+Total iterations: 3731
+======================================
+Value: 0.8287
+Y(0.8287) = 4.71667466865
+S(0.8287) = 4.71667466865
+Iterations: 13
+Time for iteration: 57
+Time elapsed: 17563
+Total iterations: 3744
+======================================
+Value: 0.8288
+Y(0.8288) = 4.71811539952
+S(0.8288) = 4.71811539952
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17622
+Total iterations: 3757
+======================================
+Value: 0.8289
+Y(0.8289) = 4.71955665233
+S(0.8289) = 4.71955665233
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17681
+Total iterations: 3770
+======================================
+Value: 0.829
+Y(0.829) = 4.7209984273
+S(0.829) = 4.7209984273
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17740
+Total iterations: 3783
+======================================
+Value: 0.8291
+Y(0.8291) = 4.72244072461
+S(0.8291) = 4.72244072461
+Iterations: 13
+Time for iteration: 103
+Time elapsed: 17843
+Total iterations: 3796
+======================================
+Value: 0.8292
+Y(0.8292) = 4.72388354448
+S(0.8292) = 4.72388354447
+Iterations: 13
+Time for iteration: 71
+Time elapsed: 17914
+Total iterations: 3809
+======================================
+Value: 0.8293
+Y(0.8293) = 4.72532688709
+S(0.8293) = 4.72532688709
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 17973
+Total iterations: 3822
+======================================
+Value: 0.8294
+Y(0.8294) = 4.72677075267
+S(0.8294) = 4.72677075267
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18032
+Total iterations: 3835
+======================================
+Value: 0.8295
+Y(0.8295) = 4.7282151414
+S(0.8295) = 4.7282151414
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18091
+Total iterations: 3848
+======================================
+Value: 0.8296
+Y(0.8296) = 4.72966005349
+S(0.8296) = 4.72966005349
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18150
+Total iterations: 3861
+======================================
+Value: 0.8297
+Y(0.8297) = 4.73110548915
+S(0.8297) = 4.73110548915
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 18205
+Total iterations: 3874
+======================================
+Value: 0.8298
+Y(0.8298) = 4.73255144857
+S(0.8298) = 4.73255144857
+Iterations: 13
+Time for iteration: 57
+Time elapsed: 18262
+Total iterations: 3887
+======================================
+Value: 0.8299
+Y(0.8299) = 4.73399793196
+S(0.8299) = 4.73399793196
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18321
+Total iterations: 3900
+======================================
+Value: 0.83
+Y(0.83) = 4.73544493952
+S(0.83) = 4.73544493952
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18380
+Total iterations: 3913
+======================================
+Value: 0.8301
+Y(0.8301) = 4.73689247145
+S(0.8301) = 4.73689247145
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18439
+Total iterations: 3926
+======================================
+Value: 0.8302
+Y(0.8302) = 4.73834052796
+S(0.8302) = 4.73834052796
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18498
+Total iterations: 3939
+======================================
+Value: 0.8303
+Y(0.8303) = 4.73978910925
+S(0.8303) = 4.73978910925
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 18556
+Total iterations: 3952
+======================================
+Value: 0.8304
+Y(0.8304) = 4.74123821552
+S(0.8304) = 4.74123821552
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18615
+Total iterations: 3965
+======================================
+Value: 0.8305
+Y(0.8305) = 4.74268784698
+S(0.8305) = 4.74268784697
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 18673
+Total iterations: 3978
+======================================
+Value: 0.8306
+Y(0.8306) = 4.74413800382
+S(0.8306) = 4.74413800382
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18732
+Total iterations: 3991
+======================================
+Value: 0.8307
+Y(0.8307) = 4.74558868626
+S(0.8307) = 4.74558868626
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 18790
+Total iterations: 4004
+======================================
+Value: 0.8308
+Y(0.8308) = 4.74703989449
+S(0.8308) = 4.74703989449
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18849
+Total iterations: 4017
+======================================
+Value: 0.8309
+Y(0.8309) = 4.74849162872
+S(0.8309) = 4.74849162872
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 18908
+Total iterations: 4030
+======================================
+Value: 0.831
+Y(0.831) = 4.74994388915
+S(0.831) = 4.74994388915
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 18966
+Total iterations: 4043
+======================================
+Value: 0.8311
+Y(0.8311) = 4.75139667599
+S(0.8311) = 4.75139667599
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 19027
+Total iterations: 4056
+======================================
+Value: 0.8312
+Y(0.8312) = 4.75284998944
+S(0.8312) = 4.75284998944
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 19081
+Total iterations: 4069
+======================================
+Value: 0.8313
+Y(0.8313) = 4.75430382971
+S(0.8313) = 4.75430382971
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 19135
+Total iterations: 4082
+======================================
+Value: 0.8314
+Y(0.8314) = 4.75575819699
+S(0.8314) = 4.75575819699
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 19197
+Total iterations: 4095
+======================================
+Value: 0.8315
+Y(0.8315) = 4.75721309149
+S(0.8315) = 4.75721309149
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 19265
+Total iterations: 4108
+======================================
+Value: 0.8316
+Y(0.8316) = 4.75866851342
+S(0.8316) = 4.75866851342
+Iterations: 13
+Time for iteration: 71
+Time elapsed: 19336
+Total iterations: 4121
+======================================
+Value: 0.8317
+Y(0.8317) = 4.76012446298
+S(0.8317) = 4.76012446297
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19395
+Total iterations: 4134
+======================================
+Value: 0.8318
+Y(0.8318) = 4.76158094037
+S(0.8318) = 4.76158094037
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19454
+Total iterations: 4147
+======================================
+Value: 0.8319
+Y(0.8319) = 4.7630379458
+S(0.8319) = 4.7630379458
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 19512
+Total iterations: 4160
+======================================
+Value: 0.832
+Y(0.832) = 4.76449547947
+S(0.832) = 4.76449547947
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19571
+Total iterations: 4173
+======================================
+Value: 0.8321
+Y(0.8321) = 4.76595354159
+S(0.8321) = 4.76595354159
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19630
+Total iterations: 4186
+======================================
+Value: 0.8322
+Y(0.8322) = 4.76741213236
+S(0.8322) = 4.76741213236
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 19688
+Total iterations: 4199
+======================================
+Value: 0.8323
+Y(0.8323) = 4.76887125199
+S(0.8323) = 4.76887125199
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19747
+Total iterations: 4212
+======================================
+Value: 0.8324
+Y(0.8324) = 4.77033090068
+S(0.8324) = 4.77033090068
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19806
+Total iterations: 4225
+======================================
+Value: 0.8325
+Y(0.8325) = 4.77179107864
+S(0.8325) = 4.77179107864
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19865
+Total iterations: 4238
+======================================
+Value: 0.8326
+Y(0.8326) = 4.77325178606
+S(0.8326) = 4.77325178606
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 19924
+Total iterations: 4251
+======================================
+Value: 0.8327
+Y(0.8327) = 4.77471302317
+S(0.8327) = 4.77471302317
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 19982
+Total iterations: 4264
+======================================
+Value: 0.8328
+Y(0.8328) = 4.77617479015
+S(0.8328) = 4.77617479015
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20041
+Total iterations: 4277
+======================================
+Value: 0.8329
+Y(0.8329) = 4.77763708722
+S(0.8329) = 4.77763708722
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 20099
+Total iterations: 4290
+======================================
+Value: 0.833
+Y(0.833) = 4.77909991459
+S(0.833) = 4.77909991459
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20158
+Total iterations: 4303
+======================================
+Value: 0.8331
+Y(0.8331) = 4.78056327245
+S(0.8331) = 4.78056327245
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20217
+Total iterations: 4316
+======================================
+Value: 0.8332
+Y(0.8332) = 4.78202716101
+S(0.8332) = 4.78202716101
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 20272
+Total iterations: 4329
+======================================
+Value: 0.8333
+Y(0.8333) = 4.78349158048
+S(0.8333) = 4.78349158048
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20331
+Total iterations: 4342
+======================================
+Value: 0.8334
+Y(0.8334) = 4.78495653107
+S(0.8334) = 4.78495653107
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20390
+Total iterations: 4355
+======================================
+Value: 0.8335
+Y(0.8335) = 4.78642201297
+S(0.8335) = 4.78642201297
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 20448
+Total iterations: 4368
+======================================
+Value: 0.8336
+Y(0.8336) = 4.7878880264
+S(0.8336) = 4.7878880264
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20507
+Total iterations: 4381
+======================================
+Value: 0.8337
+Y(0.8337) = 4.78935457157
+S(0.8337) = 4.78935457156
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 20565
+Total iterations: 4394
+======================================
+Value: 0.8338
+Y(0.8338) = 4.79082164866
+S(0.8338) = 4.79082164866
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20624
+Total iterations: 4407
+======================================
+Value: 0.8339
+Y(0.8339) = 4.79228925791
+S(0.8339) = 4.79228925791
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20683
+Total iterations: 4420
+======================================
+Value: 0.834
+Y(0.834) = 4.7937573995
+S(0.834) = 4.7937573995
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 20741
+Total iterations: 4433
+======================================
+Value: 0.8341
+Y(0.8341) = 4.79522607365
+S(0.8341) = 4.79522607365
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 20795
+Total iterations: 4446
+======================================
+Value: 0.8342
+Y(0.8342) = 4.79669528056
+S(0.8342) = 4.79669528056
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 20856
+Total iterations: 4459
+======================================
+Value: 0.8343
+Y(0.8343) = 4.79816502044
+S(0.8343) = 4.79816502043
+Iterations: 13
+Time for iteration: 66
+Time elapsed: 20922
+Total iterations: 4472
+======================================
+Value: 0.8344
+Y(0.8344) = 4.79963529349
+S(0.8344) = 4.79963529349
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 20981
+Total iterations: 4485
+======================================
+Value: 0.8345
+Y(0.8345) = 4.80110609993
+S(0.8345) = 4.80110609992
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 21039
+Total iterations: 4498
+======================================
+Value: 0.8346
+Y(0.8346) = 4.80257743995
+S(0.8346) = 4.80257743995
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21098
+Total iterations: 4511
+======================================
+Value: 0.8347
+Y(0.8347) = 4.80404931377
+S(0.8347) = 4.80404931377
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 21153
+Total iterations: 4524
+======================================
+Value: 0.8348
+Y(0.8348) = 4.80552172159
+S(0.8348) = 4.80552172159
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 21211
+Total iterations: 4537
+======================================
+Value: 0.8349
+Y(0.8349) = 4.80699466362
+S(0.8349) = 4.80699466362
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21270
+Total iterations: 4550
+======================================
+Value: 0.835
+Y(0.835) = 4.80846814007
+S(0.835) = 4.80846814007
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 21328
+Total iterations: 4563
+======================================
+Value: 0.8351
+Y(0.8351) = 4.80994215114
+S(0.8351) = 4.80994215114
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 21386
+Total iterations: 4576
+======================================
+Value: 0.8352
+Y(0.8352) = 4.81141669704
+S(0.8352) = 4.81141669704
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21445
+Total iterations: 4589
+======================================
+Value: 0.8353
+Y(0.8353) = 4.81289177798
+S(0.8353) = 4.81289177798
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21504
+Total iterations: 4602
+======================================
+Value: 0.8354
+Y(0.8354) = 4.81436739417
+S(0.8354) = 4.81436739416
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21563
+Total iterations: 4615
+======================================
+Value: 0.8355
+Y(0.8355) = 4.8158435458
+S(0.8355) = 4.8158435458
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 21625
+Total iterations: 4628
+======================================
+Value: 0.8356
+Y(0.8356) = 4.8173202331
+S(0.8356) = 4.8173202331
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 21686
+Total iterations: 4641
+======================================
+Value: 0.8357
+Y(0.8357) = 4.81879745626
+S(0.8357) = 4.81879745626
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 21741
+Total iterations: 4654
+======================================
+Value: 0.8358
+Y(0.8358) = 4.82027521551
+S(0.8358) = 4.8202752155
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 21795
+Total iterations: 4667
+======================================
+Value: 0.8359
+Y(0.8359) = 4.82175351103
+S(0.8359) = 4.82175351103
+Iterations: 13
+Time for iteration: 57
+Time elapsed: 21852
+Total iterations: 4680
+======================================
+Value: 0.836
+Y(0.836) = 4.82323234305
+S(0.836) = 4.82323234304
+Iterations: 13
+Time for iteration: 69
+Time elapsed: 21921
+Total iterations: 4693
+======================================
+Value: 0.8361
+Y(0.8361) = 4.82471171176
+S(0.8361) = 4.82471171176
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 21980
+Total iterations: 4706
+======================================
+Value: 0.8362
+Y(0.8362) = 4.82619161738
+S(0.8362) = 4.82619161738
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 22038
+Total iterations: 4719
+======================================
+Value: 0.8363
+Y(0.8363) = 4.82767206012
+S(0.8363) = 4.82767206012
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22097
+Total iterations: 4732
+======================================
+Value: 0.8364
+Y(0.8364) = 4.82915304019
+S(0.8364) = 4.82915304018
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22156
+Total iterations: 4745
+======================================
+Value: 0.8365
+Y(0.8365) = 4.83063455778
+S(0.8365) = 4.83063455778
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 22212
+Total iterations: 4758
+======================================
+Value: 0.8366
+Y(0.8366) = 4.83211661312
+S(0.8366) = 4.83211661312
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 22268
+Total iterations: 4771
+======================================
+Value: 0.8367
+Y(0.8367) = 4.8335992064
+S(0.8367) = 4.8335992064
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 22323
+Total iterations: 4784
+======================================
+Value: 0.8368
+Y(0.8368) = 4.83508233785
+S(0.8368) = 4.83508233785
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 22381
+Total iterations: 4797
+======================================
+Value: 0.8369
+Y(0.8369) = 4.83656600766
+S(0.8369) = 4.83656600766
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22440
+Total iterations: 4810
+======================================
+Value: 0.837
+Y(0.837) = 4.83805021605
+S(0.837) = 4.83805021604
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22499
+Total iterations: 4823
+======================================
+Value: 0.8371
+Y(0.8371) = 4.83953496322
+S(0.8371) = 4.83953496321
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 22557
+Total iterations: 4836
+======================================
+Value: 0.8372
+Y(0.8372) = 4.84102024938
+S(0.8372) = 4.84102024938
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22616
+Total iterations: 4849
+======================================
+Value: 0.8373
+Y(0.8373) = 4.84250607475
+S(0.8373) = 4.84250607475
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22675
+Total iterations: 4862
+======================================
+Value: 0.8374
+Y(0.8374) = 4.84399243953
+S(0.8374) = 4.84399243953
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22734
+Total iterations: 4875
+======================================
+Value: 0.8375
+Y(0.8375) = 4.84547934393
+S(0.8375) = 4.84547934393
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22793
+Total iterations: 4888
+======================================
+Value: 0.8376
+Y(0.8376) = 4.84696678816
+S(0.8376) = 4.84696678816
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 22849
+Total iterations: 4901
+======================================
+Value: 0.8377
+Y(0.8377) = 4.84845477243
+S(0.8377) = 4.84845477243
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 22908
+Total iterations: 4914
+======================================
+Value: 0.8378
+Y(0.8378) = 4.84994329695
+S(0.8378) = 4.84994329695
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 22966
+Total iterations: 4927
+======================================
+Value: 0.8379
+Y(0.8379) = 4.85143236193
+S(0.8379) = 4.85143236193
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 23024
+Total iterations: 4940
+======================================
+Value: 0.838
+Y(0.838) = 4.85292196758
+S(0.838) = 4.85292196758
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23083
+Total iterations: 4953
+======================================
+Value: 0.8381
+Y(0.8381) = 4.8544121141
+S(0.8381) = 4.8544121141
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23142
+Total iterations: 4966
+======================================
+Value: 0.8382
+Y(0.8382) = 4.85590280172
+S(0.8382) = 4.85590280172
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23201
+Total iterations: 4979
+======================================
+Value: 0.8383
+Y(0.8383) = 4.85739403063
+S(0.8383) = 4.85739403063
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 23259
+Total iterations: 4992
+======================================
+Value: 0.8384
+Y(0.8384) = 4.85888580106
+S(0.8384) = 4.85888580105
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23318
+Total iterations: 5005
+======================================
+Value: 0.8385
+Y(0.8385) = 4.8603781132
+S(0.8385) = 4.86037811319
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 23376
+Total iterations: 5018
+======================================
+Value: 0.8386
+Y(0.8386) = 4.86187096727
+S(0.8386) = 4.86187096726
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23435
+Total iterations: 5031
+======================================
+Value: 0.8387
+Y(0.8387) = 4.86336436347
+S(0.8387) = 4.86336436347
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 23493
+Total iterations: 5044
+======================================
+Value: 0.8388
+Y(0.8388) = 4.86485830203
+S(0.8388) = 4.86485830203
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 23549
+Total iterations: 5057
+======================================
+Value: 0.8389
+Y(0.8389) = 4.86635278315
+S(0.8389) = 4.86635278315
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23608
+Total iterations: 5070
+======================================
+Value: 0.839
+Y(0.839) = 4.86784780704
+S(0.839) = 4.86784780704
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 23663
+Total iterations: 5083
+======================================
+Value: 0.8391
+Y(0.8391) = 4.86934337391
+S(0.8391) = 4.86934337391
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 23721
+Total iterations: 5096
+======================================
+Value: 0.8392
+Y(0.8392) = 4.87083948397
+S(0.8392) = 4.87083948397
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 23777
+Total iterations: 5109
+======================================
+Value: 0.8393
+Y(0.8393) = 4.87233613744
+S(0.8393) = 4.87233613744
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 23837
+Total iterations: 5122
+======================================
+Value: 0.8394
+Y(0.8394) = 4.87383333452
+S(0.8394) = 4.87383333452
+Iterations: 13
+Time for iteration: 73
+Time elapsed: 23910
+Total iterations: 5135
+======================================
+Value: 0.8395
+Y(0.8395) = 4.87533107542
+S(0.8395) = 4.87533107542
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 23969
+Total iterations: 5148
+======================================
+Value: 0.8396
+Y(0.8396) = 4.87682936036
+S(0.8396) = 4.87682936036
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24028
+Total iterations: 5161
+======================================
+Value: 0.8397
+Y(0.8397) = 4.87832818955
+S(0.8397) = 4.87832818955
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24087
+Total iterations: 5174
+======================================
+Value: 0.8398
+Y(0.8398) = 4.8798275632
+S(0.8398) = 4.8798275632
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24146
+Total iterations: 5187
+======================================
+Value: 0.8399
+Y(0.8399) = 4.88132748152
+S(0.8399) = 4.88132748152
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24205
+Total iterations: 5200
+======================================
+Value: 0.84
+Y(0.84) = 4.88282794472
+S(0.84) = 4.88282794472
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 24265
+Total iterations: 5213
+======================================
+Value: 0.8401
+Y(0.8401) = 4.88432895301
+S(0.8401) = 4.88432895301
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 24320
+Total iterations: 5226
+======================================
+Value: 0.8402
+Y(0.8402) = 4.88583050661
+S(0.8402) = 4.88583050661
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24379
+Total iterations: 5239
+======================================
+Value: 0.8403
+Y(0.8403) = 4.88733260572
+S(0.8403) = 4.88733260572
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 24447
+Total iterations: 5252
+======================================
+Value: 0.8404
+Y(0.8404) = 4.88883525057
+S(0.8404) = 4.88883525056
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 24505
+Total iterations: 5265
+======================================
+Value: 0.8405
+Y(0.8405) = 4.89033844135
+S(0.8405) = 4.89033844135
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 24566
+Total iterations: 5278
+======================================
+Value: 0.8406
+Y(0.8406) = 4.89184217829
+S(0.8406) = 4.89184217828
+Iterations: 13
+Time for iteration: 72
+Time elapsed: 24638
+Total iterations: 5291
+======================================
+Value: 0.8407
+Y(0.8407) = 4.89334646159
+S(0.8407) = 4.89334646158
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24697
+Total iterations: 5304
+======================================
+Value: 0.8408
+Y(0.8408) = 4.89485129146
+S(0.8408) = 4.89485129146
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24756
+Total iterations: 5317
+======================================
+Value: 0.8409
+Y(0.8409) = 4.89635666813
+S(0.8409) = 4.89635666813
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 24811
+Total iterations: 5330
+======================================
+Value: 0.841
+Y(0.841) = 4.8978625918
+S(0.841) = 4.8978625918
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 24866
+Total iterations: 5343
+======================================
+Value: 0.8411
+Y(0.8411) = 4.89936906268
+S(0.8411) = 4.89936906268
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 24925
+Total iterations: 5356
+======================================
+Value: 0.8412
+Y(0.8412) = 4.90087608099
+S(0.8412) = 4.90087608099
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 24983
+Total iterations: 5369
+======================================
+Value: 0.8413
+Y(0.8413) = 4.90238364694
+S(0.8413) = 4.90238364694
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 25043
+Total iterations: 5382
+======================================
+Value: 0.8414
+Y(0.8414) = 4.90389176074
+S(0.8414) = 4.90389176074
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25102
+Total iterations: 5395
+======================================
+Value: 0.8415
+Y(0.8415) = 4.90540042261
+S(0.8415) = 4.90540042261
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25161
+Total iterations: 5408
+======================================
+Value: 0.8416
+Y(0.8416) = 4.90690963275
+S(0.8416) = 4.90690963275
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 25215
+Total iterations: 5421
+======================================
+Value: 0.8417
+Y(0.8417) = 4.90841939139
+S(0.8417) = 4.90841939138
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25274
+Total iterations: 5434
+======================================
+Value: 0.8418
+Y(0.8418) = 4.90992969873
+S(0.8418) = 4.90992969872
+Iterations: 13
+Time for iteration: 56
+Time elapsed: 25330
+Total iterations: 5447
+======================================
+Value: 0.8419
+Y(0.8419) = 4.91144055498
+S(0.8419) = 4.91144055498
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 25385
+Total iterations: 5460
+======================================
+Value: 0.842
+Y(0.842) = 4.91295196037
+S(0.842) = 4.91295196037
+Iterations: 13
+Time for iteration: 61
+Time elapsed: 25446
+Total iterations: 5473
+======================================
+Value: 0.8421
+Y(0.8421) = 4.9144639151
+S(0.8421) = 4.9144639151
+Iterations: 13
+Time for iteration: 73
+Time elapsed: 25519
+Total iterations: 5486
+======================================
+Value: 0.8422
+Y(0.8422) = 4.91597641939
+S(0.8422) = 4.91597641939
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25578
+Total iterations: 5499
+======================================
+Value: 0.8423
+Y(0.8423) = 4.91748947345
+S(0.8423) = 4.91748947345
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25637
+Total iterations: 5512
+======================================
+Value: 0.8424
+Y(0.8424) = 4.91900307749
+S(0.8424) = 4.91900307749
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25696
+Total iterations: 5525
+======================================
+Value: 0.8425
+Y(0.8425) = 4.92051723174
+S(0.8425) = 4.92051723173
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 25754
+Total iterations: 5538
+======================================
+Value: 0.8426
+Y(0.8426) = 4.92203193639
+S(0.8426) = 4.92203193639
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 25812
+Total iterations: 5551
+======================================
+Value: 0.8427
+Y(0.8427) = 4.92354719167
+S(0.8427) = 4.92354719167
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25871
+Total iterations: 5564
+======================================
+Value: 0.8428
+Y(0.8428) = 4.9250629978
+S(0.8428) = 4.92506299779
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25930
+Total iterations: 5577
+======================================
+Value: 0.8429
+Y(0.8429) = 4.92657935497
+S(0.8429) = 4.92657935497
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 25989
+Total iterations: 5590
+======================================
+Value: 0.843
+Y(0.843) = 4.92809626342
+S(0.843) = 4.92809626342
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 26048
+Total iterations: 5603
+======================================
+Value: 0.8431
+Y(0.8431) = 4.92961372335
+S(0.8431) = 4.92961372334
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26106
+Total iterations: 5616
+======================================
+Value: 0.8432
+Y(0.8432) = 4.93113173497
+S(0.8432) = 4.93113173497
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26164
+Total iterations: 5629
+======================================
+Value: 0.8433
+Y(0.8433) = 4.93265029851
+S(0.8433) = 4.93265029851
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 26223
+Total iterations: 5642
+======================================
+Value: 0.8434
+Y(0.8434) = 4.93416941418
+S(0.8434) = 4.93416941417
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 26282
+Total iterations: 5655
+======================================
+Value: 0.8435
+Y(0.8435) = 4.93568908218
+S(0.8435) = 4.93568908218
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26340
+Total iterations: 5668
+======================================
+Value: 0.8436
+Y(0.8436) = 4.93720930274
+S(0.8436) = 4.93720930274
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26398
+Total iterations: 5681
+======================================
+Value: 0.8437
+Y(0.8437) = 4.93873007607
+S(0.8437) = 4.93873007607
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26456
+Total iterations: 5694
+======================================
+Value: 0.8438
+Y(0.8438) = 4.94025140239
+S(0.8438) = 4.94025140239
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 26511
+Total iterations: 5707
+======================================
+Value: 0.8439
+Y(0.8439) = 4.94177328191
+S(0.8439) = 4.94177328191
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26569
+Total iterations: 5720
+======================================
+Value: 0.844
+Y(0.844) = 4.94329571485
+S(0.844) = 4.94329571484
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 26623
+Total iterations: 5733
+======================================
+Value: 0.8441
+Y(0.8441) = 4.94481870141
+S(0.8441) = 4.94481870141
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 26681
+Total iterations: 5746
+======================================
+Value: 0.8442
+Y(0.8442) = 4.94634224182
+S(0.8442) = 4.94634224182
+Iterations: 13
+Time for iteration: 68
+Time elapsed: 26749
+Total iterations: 5759
+======================================
+Value: 0.8443
+Y(0.8443) = 4.9478663363
+S(0.8443) = 4.9478663363
+Iterations: 13
+Time for iteration: 70
+Time elapsed: 26819
+Total iterations: 5772
+======================================
+Value: 0.8444
+Y(0.8444) = 4.94939098505
+S(0.8444) = 4.94939098505
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 26881
+Total iterations: 5785
+======================================
+Value: 0.8445
+Y(0.8445) = 4.95091618829
+S(0.8445) = 4.95091618829
+Iterations: 13
+Time for iteration: 55
+Time elapsed: 26936
+Total iterations: 5798
+======================================
+Value: 0.8446
+Y(0.8446) = 4.95244194625
+S(0.8446) = 4.95244194625
+Iterations: 13
+Time for iteration: 57
+Time elapsed: 26993
+Total iterations: 5811
+======================================
+Value: 0.8447
+Y(0.8447) = 4.95396825913
+S(0.8447) = 4.95396825912
+Iterations: 13
+Time for iteration: 70
+Time elapsed: 27063
+Total iterations: 5824
+======================================
+Value: 0.8448
+Y(0.8448) = 4.95549512714
+S(0.8448) = 4.95549512714
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27122
+Total iterations: 5837
+======================================
+Value: 0.8449
+Y(0.8449) = 4.95702255052
+S(0.8449) = 4.95702255051
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27181
+Total iterations: 5850
+======================================
+Value: 0.845
+Y(0.845) = 4.95855052946
+S(0.845) = 4.95855052946
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27240
+Total iterations: 5863
+======================================
+Value: 0.8451
+Y(0.8451) = 4.9600790642
+S(0.8451) = 4.9600790642
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27299
+Total iterations: 5876
+======================================
+Value: 0.8452
+Y(0.8452) = 4.96160815494
+S(0.8452) = 4.96160815494
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27358
+Total iterations: 5889
+======================================
+Value: 0.8453
+Y(0.8453) = 4.9631378019
+S(0.8453) = 4.9631378019
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27417
+Total iterations: 5902
+======================================
+Value: 0.8454
+Y(0.8454) = 4.9646680053
+S(0.8454) = 4.96466800529
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27476
+Total iterations: 5915
+======================================
+Value: 0.8455
+Y(0.8455) = 4.96619876535
+S(0.8455) = 4.96619876535
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27535
+Total iterations: 5928
+======================================
+Value: 0.8456
+Y(0.8456) = 4.96773008227
+S(0.8456) = 4.96773008227
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27594
+Total iterations: 5941
+======================================
+Value: 0.8457
+Y(0.8457) = 4.96926195628
+S(0.8457) = 4.96926195628
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27653
+Total iterations: 5954
+======================================
+Value: 0.8458
+Y(0.8458) = 4.9707943876
+S(0.8458) = 4.97079438759
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27712
+Total iterations: 5967
+======================================
+Value: 0.8459
+Y(0.8459) = 4.97232737643
+S(0.8459) = 4.97232737643
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27771
+Total iterations: 5980
+======================================
+Value: 0.846
+Y(0.846) = 4.973860923
+S(0.846) = 4.973860923
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27830
+Total iterations: 5993
+======================================
+Value: 0.8461
+Y(0.8461) = 4.97539502753
+S(0.8461) = 4.97539502753
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27889
+Total iterations: 6006
+======================================
+Value: 0.8462
+Y(0.8462) = 4.97692969023
+S(0.8462) = 4.97692969023
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 27948
+Total iterations: 6019
+======================================
+Value: 0.8463
+Y(0.8463) = 4.97846491132
+S(0.8463) = 4.97846491132
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 28006
+Total iterations: 6032
+======================================
+Value: 0.8464
+Y(0.8464) = 4.98000069101
+S(0.8464) = 4.98000069101
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28065
+Total iterations: 6045
+======================================
+Value: 0.8465
+Y(0.8465) = 4.98153702953
+S(0.8465) = 4.98153702953
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28124
+Total iterations: 6058
+======================================
+Value: 0.8466
+Y(0.8466) = 4.9830739271
+S(0.8466) = 4.98307392709
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28183
+Total iterations: 6071
+======================================
+Value: 0.8467
+Y(0.8467) = 4.98461138392
+S(0.8467) = 4.98461138391
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28242
+Total iterations: 6084
+======================================
+Value: 0.8468
+Y(0.8468) = 4.98614940021
+S(0.8468) = 4.98614940021
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28301
+Total iterations: 6097
+======================================
+Value: 0.8469
+Y(0.8469) = 4.98768797621
+S(0.8469) = 4.9876879762
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28360
+Total iterations: 6110
+======================================
+Value: 0.847
+Y(0.847) = 4.98922711211
+S(0.847) = 4.98922711211
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28419
+Total iterations: 6123
+======================================
+Value: 0.8471
+Y(0.8471) = 4.99076680815
+S(0.8471) = 4.99076680814
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28478
+Total iterations: 6136
+======================================
+Value: 0.8472
+Y(0.8472) = 4.99230706453
+S(0.8472) = 4.99230706453
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28537
+Total iterations: 6149
+======================================
+Value: 0.8473
+Y(0.8473) = 4.99384788148
+S(0.8473) = 4.99384788148
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28596
+Total iterations: 6162
+======================================
+Value: 0.8474
+Y(0.8474) = 4.99538925922
+S(0.8474) = 4.99538925922
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28655
+Total iterations: 6175
+======================================
+Value: 0.8475
+Y(0.8475) = 4.99693119796
+S(0.8475) = 4.99693119796
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28714
+Total iterations: 6188
+======================================
+Value: 0.8476
+Y(0.8476) = 4.99847369792
+S(0.8476) = 4.99847369792
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28773
+Total iterations: 6201
+======================================
+Value: 0.8477
+Y(0.8477) = 5.00001675933
+S(0.8477) = 5.00001675932
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28832
+Total iterations: 6214
+======================================
+Value: 0.8478
+Y(0.8478) = 5.00156038239
+S(0.8478) = 5.00156038238
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28891
+Total iterations: 6227
+======================================
+Value: 0.8479
+Y(0.8479) = 5.00310456733
+S(0.8479) = 5.00310456732
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 28950
+Total iterations: 6240
+======================================
+Value: 0.848
+Y(0.848) = 5.00464931437
+S(0.848) = 5.00464931436
+Iterations: 13
+Time for iteration: 60
+Time elapsed: 29010
+Total iterations: 6253
+======================================
+Value: 0.8481
+Y(0.8481) = 5.00619462372
+S(0.8481) = 5.00619462371
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29069
+Total iterations: 6266
+======================================
+Value: 0.8482
+Y(0.8482) = 5.00774049561
+S(0.8482) = 5.0077404956
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29128
+Total iterations: 6279
+======================================
+Value: 0.8483
+Y(0.8483) = 5.00928693025
+S(0.8483) = 5.00928693024
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29187
+Total iterations: 6292
+======================================
+Value: 0.8484
+Y(0.8484) = 5.01083392786
+S(0.8484) = 5.01083392786
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 29245
+Total iterations: 6305
+======================================
+Value: 0.8485
+Y(0.8485) = 5.01238148867
+S(0.8485) = 5.01238148867
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29304
+Total iterations: 6318
+======================================
+Value: 0.8486
+Y(0.8486) = 5.01392961289
+S(0.8486) = 5.01392961288
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29363
+Total iterations: 6331
+======================================
+Value: 0.8487
+Y(0.8487) = 5.01547830074
+S(0.8487) = 5.01547830073
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 29421
+Total iterations: 6344
+======================================
+Value: 0.8488
+Y(0.8488) = 5.01702755244
+S(0.8488) = 5.01702755243
+Iterations: 13
+Time for iteration: 62
+Time elapsed: 29483
+Total iterations: 6357
+======================================
+Value: 0.8489
+Y(0.8489) = 5.01857736821
+S(0.8489) = 5.01857736821
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 29537
+Total iterations: 6370
+======================================
+Value: 0.849
+Y(0.849) = 5.02012774827
+S(0.849) = 5.02012774827
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29596
+Total iterations: 6383
+======================================
+Value: 0.8491
+Y(0.8491) = 5.02167869284
+S(0.8491) = 5.02167869284
+Iterations: 13
+Time for iteration: 74
+Time elapsed: 29670
+Total iterations: 6396
+======================================
+Value: 0.8492
+Y(0.8492) = 5.02323020214
+S(0.8492) = 5.02323020214
+Iterations: 13
+Time for iteration: 54
+Time elapsed: 29724
+Total iterations: 6409
+======================================
+Value: 0.8493
+Y(0.8493) = 5.0247822764
+S(0.8493) = 5.02478227639
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 29782
+Total iterations: 6422
+======================================
+Value: 0.8494
+Y(0.8494) = 5.02633491582
+S(0.8494) = 5.02633491582
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29841
+Total iterations: 6435
+======================================
+Value: 0.8495
+Y(0.8495) = 5.02788812063
+S(0.8495) = 5.02788812063
+Iterations: 13
+Time for iteration: 58
+Time elapsed: 29899
+Total iterations: 6448
+======================================
+Value: 0.8496
+Y(0.8496) = 5.02944189105
+S(0.8496) = 5.02944189105
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 29958
+Total iterations: 6461
+======================================
+Value: 0.8497
+Y(0.8497) = 5.03099622731
+S(0.8497) = 5.03099622731
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 30017
+Total iterations: 6474
+======================================
+Value: 0.8498
+Y(0.8498) = 5.03255112962
+S(0.8498) = 5.03255112961
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 30076
+Total iterations: 6487
+======================================
+Value: 0.8499
+Y(0.8499) = 5.0341065982
+S(0.8499) = 5.03410659819
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 30135
+Total iterations: 6500
+======================================
+Value: 0.85
+Y(0.85) = 5.03566263327
+S(0.85) = 5.03566263326
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 30194
+Total iterations: 6513
+======================================
+Value: 0.8501
+Y(0.8501) = 5.03721923505
+S(0.8501) = 5.03721923505
+Iterations: 13
+Time for iteration: 59
+Time elapsed: 30253
+Total iterations: 6526
+======================================
